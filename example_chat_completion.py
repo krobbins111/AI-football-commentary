@@ -15,6 +15,7 @@ from absl import flags
 import pyttsx3
 from commentary import Commentary
 import threading
+import time
 
 
 
@@ -102,22 +103,27 @@ def main(
         'render': True
     })
     env = football_env.FootballEnv(cfg)
-    # env.render(mode='human')
+    env.render(mode='human')
     commentary = Commentary()
     try:
-        prompt = 'You are a soccer commentator. In 2 sentences or less, create commentary for all following prompts. Respond "Welcome" to this.'
+        prompt = ''
         commentary_thread = threading.Thread(target=get_completion,
                                                 args=(prompt, generator, max_gen_len, temperature, top_p))
-
+        commentary_thread.start()
+        step_num = 0
         while True:
             observation, reward, done, info = env.step([football_action_set.action_dribble])
+            print(step_num)
+            step_num += 1
             prompt, interrupt_current_commentary = commentary.process_observation(observation)
+            time.sleep(1)
             if prompt:
                 if commentary_thread.is_alive():
+                    print('thread alive')
                     if interrupt_current_commentary:
                         # commentary_thread kill/stop
                         # commentary_thread.start()
-                        print('thread alive')
+                        print('thread alive not interrupted')
                 else:
                     commentary_thread = threading.Thread(target=get_completion,
                                                             args=(prompt, generator, max_gen_len, temperature, top_p))
@@ -130,22 +136,23 @@ def main(
         exit(1)
 
 def get_completion(prompt, generator, max_gen_len, temperature, top_p):
-    dialogs = [[{"role": "user", "content": str(prompt)}]]
+    if prompt:
+        dialogs = [[{"role": "user", "content": 'You are a soccer commentator. In 2 sentences or less, create commentary for: ' + str(prompt)}]]
 
-    results = generator.chat_completion(
-        dialogs,
-        max_gen_len=max_gen_len,
-        temperature=temperature,
-        top_p=top_p,
-    )
-
-    for dialog, result in zip(dialogs, results):
-        for msg in dialog:
-            print(f"{msg['role'].capitalize()}: {msg['content']}\n")
-        print(
-            f"> {result['generation']['role'].capitalize()}: {result['generation']['content']}"
+        results = generator.chat_completion(
+            dialogs,
+            max_gen_len=max_gen_len,
+            temperature=temperature,
+            top_p=top_p,
         )
-        print("\n==================================\n")
+
+        for dialog, result in zip(dialogs, results):
+            for msg in dialog:
+                print(f"{msg['role'].capitalize()}: {msg['content']}\n")
+            print(
+                f"> {result['generation']['role'].capitalize()}: {result['generation']['content']}"
+            )
+            print("\n==================================\n")
 
 if __name__ == "__main__":
     fire.Fire(main)
