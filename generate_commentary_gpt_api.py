@@ -13,6 +13,9 @@ from elevenlabs import generate, save, set_api_key, Voice, clone
 from gfootball.env import football_env
 from gfootball.env import config
 from gfootball.env import football_action_set
+import pyaudio
+import wave
+from pydub import AudioSegment
 
 from absl import app
 from absl import flags
@@ -40,7 +43,7 @@ current_10_min = 9
 api_response = ''
 
 def get_chat_completion(prompt):
-    client = OpenAI()
+    client = OpenAI(api_key='')
     print('start inner thread')
     completion = client.chat.completions.create(
     # model="ft:gpt-3.5-turbo-0613:personal::8OqM7Fzo",
@@ -152,18 +155,59 @@ def concatenate_audio_from_paths(video_path, audio_paths, steps_time):
     # Concatenate all clips with silence
     concatenated_audio = concatenate_audioclips(audio_clips_with_silence)
     background_audio = AudioFileClip(os.path.join('raw_audio','stadium_noise.mp3')).subclip(0, concatenated_audio.duration)
-    background_audio = afx.volumex(background_audio, .15)
+    background_audio = afx.volumex(background_audio, .1)
     final_audio = CompositeAudioClip([concatenated_audio, background_audio])
 
     video_clip = video_clip.set_audio(final_audio)
     output_path = os.path.splitext(video_path)[0] + "_with_audio.mp4"
     video_clip.write_videofile(output_path, codec="libx264", audio_codec="aac")
 
+
+def record_and_save(duration=31):
+    p = pyaudio.PyAudio()
+    channels = 2
+    rate = 44100
+    frames_per_buffer = 1024
+
+    stream = p.open(format=pyaudio.paInt16,
+                    channels=channels,
+                    rate=rate,
+                    input=True,
+                    frames_per_buffer=frames_per_buffer)
+
+    print("Recording...")
+
+    frames = []
+    for i in range(int(rate / frames_per_buffer * duration)):
+        data = stream.read(frames_per_buffer)
+        frames.append(data)
+
+    print("Finished recording.")
+
+    stream.stop_stream()
+    stream.close()
+    p.terminate()
+
+    filename = os.path.join('raw_audio', 'voice_training.wav')
+    # Save as WAV file
+    wf = wave.open(filename, 'wb')
+    wf.setnchannels(channels)
+    wf.setsampwidth(pyaudio.PyAudio().get_sample_size(pyaudio.paInt16))
+    wf.setframerate(rate)
+    wf.writeframes(b''.join(frames))
+    wf.close()
+
+    # Convert to MP3 using pydub
+    sound = AudioSegment.from_wav(filename)
+    sound.export(filename.replace('wav', 'mp3'), format='mp3')
+    print(f"Audio saved as {filename.replace('wav', 'mp3')}")
+
+
 example_commentary = ["And we're off! The match has officially begun with a swift kick-off, setting the tone for an exciting game ahead.", "And it looks like he's lining up to take it, let's see if he can get it past the wall and into the back of the net!", 'The player has been fouled, and now they have a great opportunity to score from this free kick. Things are about to get interesting!', 'The referee is giving a free kick, an opportunity for the team to try and score from a set piece.', "What a missed opportunity for the attacking team! They couldn't convert and it's now a goal kick.", "And it's a corner kick! The attacking team will have a chance to create a scoring opportunity from this set-piece.", 'The referee has awarded a free kick! This is a great opportunity for the team to capitalize and create a scoring chance.', "Great pressure from the attacking team! They've earned themselves a corner kick to keep up the momentum.", "The attacking team couldn't convert their chances into a goal, and now it's a goal kick for the opposing team.", "The attacking team's efforts were in vain as the ball crossed the goal line, resulting in a goal kick for the defending team.", 'What a fantastic strike! The away team has taken the lead with a clinical finish.', "What a disappointment for the attacking team! After all that build-up play, it's just a goal kick for the opposition.", "The attacking team had a promising build-up but ultimately didn't find the mark. It's just a goal kick for the defending team.", "And the player lines up for the shot... it's a strong strike, but the goalkeeper dives and makes an incredible save!", "The goalkeeper wasn't even troubled by that shot, it was an easy save for him."]
 
 
 def main(_):
-    set_api_key()
+    set_api_key('')
     cfg = config.Config({
         'env_name': FLAGS.env_name,
         'action_set': FLAGS.action_set,
@@ -180,7 +224,18 @@ def main(_):
         cfg['level'] = FLAGS.level
 
     # record voice into mp3
-
+    # print('Prepare to speak for voice training data in...')
+    # print(3)
+    # time.sleep(1)
+    # print(2)
+    # time.sleep(1)
+    # print(1)
+    # time.sleep(1)
+    # record_and_save()
+    voice = clone(
+        name = "cloned_voice",
+        files = [os.path.join('raw_audio', 'voice_training.mp3')] 
+    )
 
     env = football_env.FootballEnv(cfg)
     env.render(mode='human')
@@ -222,13 +277,15 @@ def main(_):
                     interrupt_string = "interrupt" if interrupt_current_commentary is True else "normal"
                     # tts_engine.save_to_file(commentary, f'{second}.{interrupt_string}.mp3')
                     # tts_engine.runAndWait()
-                    if gen_count % 2 == 0:
-                        audio = generate(text=commentary, voice=Voice(voice_id='6SyeRjC0kKHiLuScI65N'), model="eleven_multilingual_v2")
-                        save(audio, f'{second}.{interrupt_string}.mp3')
-                    else:
-                        audio = generate(text=commentary, voice=Voice(voice_id='z4COigt0SkX79fhgEDzg'), model="eleven_multilingual_v2")
-                        save(audio, f'{second}.{interrupt_string}.mp3')
-                    gen_count = gen_count + 1
+                    # if gen_count % 2 == 0:
+                    #     audio = generate(text=commentary, voice=Voice(voice_id='6SyeRjC0kKHiLuScI65N'), model="eleven_multilingual_v2")
+                    #     save(audio, f'{second}.{interrupt_string}.mp3')
+                    # else:
+                    #     audio = generate(text=commentary, voice=Voice(voice_id='z4COigt0SkX79fhgEDzg'), model="eleven_multilingual_v2")
+                    #     save(audio, f'{second}.{interrupt_string}.mp3')
+                    # gen_count = gen_count + 1
+                    audio = generate(text=commentary, voice=voice, model="eleven_multilingual_v2")
+                    save(audio, f'{second}.{interrupt_string}.mp3')
 
                 most_recent_avi = get_most_recent_avi('C:\\Users\\kevin\\AppData\\Local\\Temp\\dumps')
 
@@ -247,8 +304,6 @@ def main(_):
                         print("No audio files found.")
                 else:
                     print("No AVI files found.")
-                # make audio
-                # put audio in video
                 exit(1)
     except KeyboardInterrupt:
         env.write_dump('shutdown')
