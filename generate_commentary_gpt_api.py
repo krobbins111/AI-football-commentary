@@ -8,6 +8,7 @@ import numpy as np
 import sample
 import tensorflow as tf
 import threading
+from elevenlabs import generate, save, set_api_key, Voice, clone
 
 from gfootball.env import football_env
 from gfootball.env import config
@@ -19,7 +20,8 @@ import pyttsx3
 from commentary import Commentary
 from openai import OpenAI
 import time
-from moviepy.editor import VideoFileClip, AudioFileClip, concatenate_audioclips, AudioClip
+from moviepy.editor import VideoFileClip, AudioFileClip, concatenate_audioclips, AudioClip, CompositeAudioClip
+import moviepy.audio.fx.all as afx
 
 FLAGS = flags.FLAGS
 flags.DEFINE_string(
@@ -38,20 +40,22 @@ current_10_min = 9
 api_response = ''
 
 def get_chat_completion(prompt):
-    client = OpenAI(api_key='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')
+    client = OpenAI()
     print('start inner thread')
     completion = client.chat.completions.create(
-    model="gpt-3.5-turbo",
+    # model="ft:gpt-3.5-turbo-0613:personal::8OqM7Fzo",
+    model='gpt-3.5-turbo',
     messages=[
-        {"role": "system", "content": "You are an enthusiastic soccer commentator. All your remarks should be about 2 sentences"},
+        {"role": "system", "content": "You are an enthusiastic FIFA esports streamer on Twitch playing as the home side. All your remarks should be about 2 sentences and not mention any names of players or teams and focus on the prompt only."},
         {"role": "user", "content": f'{prompt}'}
     ],
+    temperature=0.25,
     timeout=10)
     print('end')
     global api_response
     api_response = completion.choices[0].message.content
 
-def threaded_inference(prompt, steps_time): # RIGHT PLACE WRONG ORDER
+def threaded_inference(prompt, interrupt_current_commentary, steps_time): # RIGHT PLACE WRONG ORDER
     print(prompt, ' at ', steps_time)
     api_thread = threading.Thread(target=get_chat_completion, args=(prompt,))
 
@@ -70,7 +74,7 @@ def threaded_inference(prompt, steps_time): # RIGHT PLACE WRONG ORDER
     # print('model o/p: ' + str(text.strip().find('.')))
     print("=" * 80)
     global current_10_min
-    all_commentary.append((api_response, steps_time))
+    all_commentary.append((api_response, interrupt_current_commentary, steps_time))
     # all_commentary.append((text, (3000 - steps_left) // 100 * current_10_min))
     print(current_10_min)
     # if steps_left == 0:
@@ -92,55 +96,6 @@ def get_audio_files(directory_path):
     audio_files = [file for file in os.listdir(directory_path) if file.lower().endswith('.mp3')]
     return audio_files
 
-def add_audio_to_video(video_path, audio_files):
-    video_clip = VideoFileClip(video_path)
-    final_audio = None
-
-    for audio_file in audio_files:
-        # Extract the start time from the audio file name (assuming the file name is in seconds)
-        start_time = int(os.path.splitext(audio_file)[0])
-
-        # Load the audio clip
-        audio_clip = AudioFileClip(audio_file)
-
-        # Trim the audio clip to start at the specified time
-        audio_clip = audio_clip.subclip(start_time)
-
-        # If it's the first audio file, initialize the final_audio
-        if final_audio is None:
-            final_audio = audio_clip
-        else:
-            # Overlay subsequent audio clips
-            final_audio = final_audio.overlay(audio_clip)
-
-    # Set the final audio on the video
-    video_clip = video_clip.set_audio(final_audio)
-
-    # Write the final video with added audio
-    output_path = os.path.splitext(video_path)[0] + "_with_audio.mp4"
-    video_clip.write_videofile(output_path, codec="libx264", audio_codec="aac")
-
-def add_multiple_audio(video_path, audio_clips):
-    # Load the video clip
-    video_clip = VideoFileClip(video_path)
-
-    # Create an empty audio array with the same duration as the video
-    combined_audio = video_clip.audio.subclip(0, video_clip.duration)
-
-    # Add each audio clip at its specified time
-    for audio_path in audio_clips:
-        audio_clip = AudioFileClip(audio_path)
-        audio_clip = combined_audio.subclip(Path(audio_path).name.split('.')[0])
-        combined_audio = combined_audio.set_duration(max(combined_audio.duration, audio_clip.duration))
-        combined_audio = combined_audio.audio(audio_clip)
-
-    # Set the audio of the video clip to the combined audio
-    video_clip = video_clip.set_audio(combined_audio)
-
-    # Write the result to a file
-    output_path = os.path.splitext(video_path)[0] + "_with_audio.mp4"
-    video_clip.write_videofile(output_path, codec="libx264", audio_codec="aac")
-
 make_frame = lambda t: np.array([
     0,
     0
@@ -158,12 +113,12 @@ def concatenate_audio_from_paths(video_path, audio_paths, steps_time):
     last_played_time = 0
     total_time = 0
     last_duration = AudioFileClip(audio_paths[0]).duration
-    audio_paths_with_time = [(audio_path, os.path.splitext(audio_path)[0].split('.')[0]) for audio_path in audio_paths]
+    audio_paths_with_time = [(audio_path, os.path.splitext(audio_path)[0].split('.')[0], True if os.path.splitext(audio_path)[0].split('.')[1] == 'interrupt' else False) for audio_path in audio_paths]
     audio_paths_with_time.sort(key=lambda a: int(a[1]))
     print(audio_paths_with_time)
 
-    for audio_path, start_time in audio_paths_with_time:
-        print(audio_path, start_time)
+    for audio_path, start_time, interrupt in audio_paths_with_time:
+        print(audio_path, start_time, interrupt)
         # Load the original audio clip
         current_clip = AudioFileClip(audio_path)
 
@@ -171,6 +126,12 @@ def concatenate_audio_from_paths(video_path, audio_paths, steps_time):
         actual_pre_silence_time = (video_clip.duration / steps_time) * int(pre_silence_time)
         actual_start_time = (video_clip.duration / steps_time) * int(start_time)
         print('total time:', total_time, 'last played at:', last_played_time)
+        # if interrupt and audio_clips_with_silence:
+        #     last_played_time = actual_pre_silence_time + last_duration
+        #     audio_clips_with_silence[-1] = concatenate_audioclips([audio_clips_with_silence[-1].subclip(0, actual_start_time - last_played_time), current_clip])
+        #     last_duration = current_clip.duration
+        #     total_time += audio_clip_with_silence.duration
+        # elif not last_played_time > actual_start_time:
         if not last_played_time > actual_start_time:
             # Generate silence before the current clip
             last_played_time = actual_pre_silence_time + last_duration
@@ -182,17 +143,19 @@ def concatenate_audio_from_paths(video_path, audio_paths, steps_time):
             # Append the result to the list
             audio_clips_with_silence.append(audio_clip_with_silence)
             total_time += audio_clip_with_silence.duration
-            #INTERRUPTION TODO
+        else:
+            print(f'skipping {audio_path}')
 
         last_duration = current_clip.duration
         pre_silence_time = start_time
 
     # Concatenate all clips with silence
     concatenated_audio = concatenate_audioclips(audio_clips_with_silence)
+    background_audio = AudioFileClip(os.path.join('raw_audio','stadium_noise.mp3')).subclip(0, concatenated_audio.duration)
+    background_audio = afx.volumex(background_audio, .15)
+    final_audio = CompositeAudioClip([concatenated_audio, background_audio])
 
-    video_clip = video_clip.set_audio(concatenated_audio)
-    print(concatenated_audio.duration)
-
+    video_clip = video_clip.set_audio(final_audio)
     output_path = os.path.splitext(video_path)[0] + "_with_audio.mp4"
     video_clip.write_videofile(output_path, codec="libx264", audio_codec="aac")
 
@@ -200,8 +163,7 @@ example_commentary = ["And we're off! The match has officially begun with a swif
 
 
 def main(_):
-    client = OpenAI(api_key='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')
-
+    set_api_key()
     cfg = config.Config({
         'env_name': FLAGS.env_name,
         'action_set': FLAGS.action_set,
@@ -216,6 +178,9 @@ def main(_):
     })
     if FLAGS.level:
         cfg['level'] = FLAGS.level
+
+    # record voice into mp3
+
 
     env = football_env.FootballEnv(cfg)
     env.render(mode='human')
@@ -242,19 +207,28 @@ def main(_):
             #         commentary_thread = threading.Thread(target=threaded_inference,
             #                                                 args=(prompt, env._env._steps_time))
             #         commentary_thread.start()
-            for _ in range(3):
+            for _ in range(1):
                     if prompt:
-                        threading.Thread(target=threaded_inference, args=(prompt, env._env._steps_time)).start()
+                        threading.Thread(target=threaded_inference, args=(prompt, interrupt_current_commentary, env._env._steps_time)).start()
             if done:
                 print('Done with game')
                 print(all_commentary)
                 time.sleep(10)
-                tts_engine = pyttsx3.init()
-                tts_engine.setProperty('voice', 'english')
-                tts_engine.setProperty('rate', 200)
-                for commentary, second in all_commentary:
-                    tts_engine.save_to_file(commentary, f'{second}.mp3')
-                    tts_engine.runAndWait()
+                # tts_engine = pyttsx3.init()
+                # tts_engine.setProperty('voice', 'english')
+                # tts_engine.setProperty('rate', 200)
+                gen_count = 0
+                for commentary, interrupt_current_commentary, second in all_commentary:
+                    interrupt_string = "interrupt" if interrupt_current_commentary is True else "normal"
+                    # tts_engine.save_to_file(commentary, f'{second}.{interrupt_string}.mp3')
+                    # tts_engine.runAndWait()
+                    if gen_count % 2 == 0:
+                        audio = generate(text=commentary, voice=Voice(voice_id='6SyeRjC0kKHiLuScI65N'), model="eleven_multilingual_v2")
+                        save(audio, f'{second}.{interrupt_string}.mp3')
+                    else:
+                        audio = generate(text=commentary, voice=Voice(voice_id='z4COigt0SkX79fhgEDzg'), model="eleven_multilingual_v2")
+                        save(audio, f'{second}.{interrupt_string}.mp3')
+                    gen_count = gen_count + 1
 
                 most_recent_avi = get_most_recent_avi('C:\\Users\\kevin\\AppData\\Local\\Temp\\dumps')
 
