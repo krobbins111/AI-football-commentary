@@ -75,10 +75,13 @@ class Commentary:
         if score[0] > self.home_score:
             self.home_score = score[0]
             interrupt_current_commentary = True
-            prompt = 'And that\'s a goal for this home side! '
+            # prompt = 'And that\'s a goal for this home side! '
+            prompt = f"And that\'s a goal for this home side! The new score is {self.home_score}"
         if score[1] > self.away_score:
             self.away_score = score[1]
             interrupt_current_commentary = True
-            prompt = 'And that\'s a goal for this away side! '
+            # prompt = 'And that\'s a goal for this away side! '
+            prompt = f"And that\'s a goal for this away side! The new score is {self.away_score}"
+            
 
         return prompt, interrupt_current_commentary
