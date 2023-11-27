@@ -1,3 +1,6 @@
+home_team = dict([(0, 'Ada Lovelace'), (1, 'Alan Turing'), (2, 'Katherine Johnson'), (3, 'Leonardo da Vinci'), (4, 'Isaac Newton'), (5, 'David Blackwell'), (6, 'Anita Borg'), (7, 'Leonhard Euler'), (8, 'Pythagoras'), (9, 'Marie Curie'), (10, 'Louise Nixon Sutton')])
+away_team = dict([(0, 'Lisa Meitner'), (1, 'Albert Einstein'), (2, 'Dorothy Vaughaun'), (3, 'Archimedinho'), (4, 'Stefan Banach'), (5, 'Benjamin Banneker'), (6, 'Jane Goodall'), (7, 'Nicolaus Copernicus'), (8, 'Richard Feynman'), (9, 'Rosalind Franklin'), (10, 'Melba Roy Mouton')])
+
 class Commentary:
     def __init__(self):
         # match info
@@ -17,6 +20,8 @@ class Commentary:
         observation = observation[0]
         # interrupt current speech for important eents like goal
         interrupt_current_commentary = False
+        # print(observation) #TODO: show info to team
+        switch_possession_counter = 0
 
         # game mode information
         game_mode = observation['game_mode']
@@ -26,30 +31,32 @@ class Commentary:
             if self.first_kickoff:
                 self.first_kickoff = False
                 interrupt_current_commentary = True
-                prompt = 'The football match is starting from the first minute with a kickoff of the ball. '
+                prompt = 'Introduce your twitch stream and the game you are playing FIFA to your audience'
             elif self.current_game_mode == 1:  # kickoff
                 print('todo: kickoff')
-                # prompt = 'And we start again with the kickoff'
+                prompt = 'And we start again with the kickoff'
             elif self.current_game_mode == 2:  # goal kick
                 print('todo: goalkick')
-                # prompt = 'After all that build up from the attacking team, it will only be a goal kick'
+                prompt = 'After all that build up from the attacking team, it will only be a goal kick'
             elif self.current_game_mode == 3:  # free kick
                 prompt = '﻿That\'s a free kick. '
             elif self.current_game_mode == 4:  # corner
                 print('todo: corner')
-                # prompt = 'The ball goes behind for a corner'
+                prompt = 'The ball goes behind for a corner'
             elif self.current_game_mode == 5:  # throw in
                 print('todo: throwin')
-                # prompt = 'The ball goes out for a throw in'
+                prompt = 'The ball goes out for a throw in'
             elif self.current_game_mode == 6:  # penalty
                 print('todo: penalty')
-                # prompt = 'Oh dear the ref has given a penalty he is pointing to the spot'
+                prompt = 'Oh dear the ref has given a penalty he is pointing to the spot'
         elif self.current_game_mode == 0:
             # normal mode - no major events happening - time to talk about filler details
             if observation['ball_owned_team'] != self.possession_team:
                 self.possession_team = observation['ball_owned_team']
                 # print('todo: filler talk')
-                # prompt = 'The ball changes possession '
+                switch_possession_counter += 1
+                if switch_possession_counter % 2 == 0:
+                    prompt = 'The ball changes possession'
 
         # card/booking information
         total_home_cards = sum(observation['left_team_yellow_card'])

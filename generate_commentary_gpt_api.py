@@ -1,25 +1,14 @@
-import json
 import os
-from pathlib import Path   
-
-import encoder
-import model
 import numpy as np
-import sample
-import tensorflow as tf
 import threading
-from elevenlabs import generate, save, set_api_key, Voice, clone
-
+from elevenlabs import generate, save, set_api_key, clone
 from gfootball.env import football_env
 from gfootball.env import config
-from gfootball.env import football_action_set
 import pyaudio
 import wave
 from pydub import AudioSegment
-
 from absl import app
 from absl import flags
-import pyttsx3
 from commentary import Commentary
 from openai import OpenAI
 import time
@@ -41,7 +30,7 @@ all_commentary = []
 api_response = ''
 
 def get_chat_completion(prompt):
-    client = OpenAI(api_key='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')
+    client = OpenAI(api_key='')
     print('start inner thread')
     completion = client.chat.completions.create(
     # model="ft:gpt-3.5-turbo-0613:personal::8OqM7Fzo",
@@ -190,7 +179,7 @@ def record_and_save(duration=31):
 
 
 def main(_):
-    set_api_key('199b9659c6f6f79b1c758af9e63ce4d6')
+    set_api_key('')
     cfg = config.Config({
         'env_name': FLAGS.env_name,
         'action_set': FLAGS.action_set,
