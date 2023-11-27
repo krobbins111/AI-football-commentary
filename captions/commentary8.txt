@@ -1,0 +1,1256 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.080 --> 00:00:07.690 align:start position:0%
+ 
+II <00:00:02.082><c>a </c><00:00:02.084><c>sports </c><00:00:02.086><c>to </c><00:00:02.088><c>the </c><00:00:02.090><c>game  </c><00:00:02.092><c>[Applause]  </c><00:00:02.094><c>[Applause]  </c><00:00:02.096><c>[Applause]  </c><00:00:02.098><c>that's </c><00:00:02.100><c>death </c><00:00:02.102><c>death </c><00:00:02.104><c>death </c><00:00:02.106><c>death </c><00:00:02.108><c>death  </c><00:00:02.110><c>death </c><00:00:02.112><c>death  </c><00:00:02.114><c>[Applause]  </c><00:00:02.116><c>you  </c><00:00:02.118><c>hi </c><00:00:02.120><c>there </c><00:00:02.122><c>I'm </c><00:00:02.124><c>Martin </c><00:00:02.126><c>Tyler </c><00:00:02.128><c>with </c><00:00:02.130><c>me </c><00:00:02.132><c>today  </c><00:00:02.134><c>as </c><00:00:02.136><c>always </c><00:00:02.138><c>Alan </c><00:00:02.140><c>Smith </c><00:00:02.142><c>Thank </c><00:00:02.144><c>You </c><00:00:02.146><c>Martin  </c><00:00:02.148><c>looking </c><00:00:02.150><c>forward </c><00:00:02.152><c>to </c><00:00:02.154><c>this </c><00:00:02.156><c>one </c><00:00:02.158><c>should </c><00:00:02.160><c>be </c><00:00:02.162><c>a  </c><00:00:02.164><c>good </c><00:00:02.166><c>game </c><00:00:02.168><c>today's </c><00:00:02.170><c>game </c><00:00:02.172><c>manchester </c><00:00:02.174><c>united  </c><00:00:02.176><c>against </c><00:00:02.178><c>barcelona  </c><00:00:02.180><c>still </c><00:00:02.182><c>very </c><00:00:02.184><c>much </c><00:00:02.186><c>the </c><00:00:02.188><c>benchmark </c><00:00:02.190><c>Barcelona  </c><00:00:02.192><c>rather </c><00:00:02.194><c>for </c><00:00:02.196><c>the </c><00:00:02.198><c>style </c><00:00:02.200><c>of </c><00:00:02.202><c>football </c><00:00:02.204><c>and  </c><00:00:02.206><c>little </c><00:00:02.208><c>tweaks </c><00:00:02.210><c>here </c><00:00:02.212><c>and </c><00:00:02.214><c>there </c><00:00:02.216><c>but </c><00:00:02.218><c>very  </c><00:00:02.220><c>much </c><00:00:02.222><c>it </c><00:00:02.224><c>a </c><00:00:02.226><c>standard </c><00:00:02.228><c>that </c><00:00:02.230><c>these </c><00:00:02.232><c>players  </c><00:00:02.234><c>have </c><00:00:02.236><c>to </c><00:00:02.238><c>rise </c><00:00:02.240><c>to </c><00:00:02.242><c>yes </c><00:00:02.244><c>I </c><00:00:02.246><c>think </c><00:00:02.248><c>that's </c><00:00:02.250><c>fair  </c><00:00:02.252><c>tiki-taka </c><00:00:02.254><c>he's </c><00:00:02.256><c>known </c><00:00:02.258><c>the </c><00:00:02.260><c>short </c><00:00:02.262><c>style  </c><00:00:02.264><c>passing </c><00:00:02.266><c>game </c><00:00:02.268><c>amended </c><00:00:02.270><c>it </c><00:00:02.272><c>to </c><00:00:02.274><c>a </c><00:00:02.276><c>certain  </c><00:00:02.278><c>extent </c><00:00:02.280><c>I </c><00:00:02.282><c>think </c><00:00:02.284><c>you've </c><00:00:02.286><c>got </c><00:00:02.288><c>to </c><00:00:02.290><c>do </c><00:00:02.292><c>that  </c><00:00:02.294><c>against </c><00:00:02.296><c>certain </c><00:00:02.298><c>sides </c><00:00:02.300><c>manchester </c><00:00:02.302><c>United  </c><00:00:02.304><c>have </c><00:00:02.306><c>designed </c><00:00:02.308><c>Old </c><00:00:02.310><c>Trafford </c><00:00:02.312><c>these </c><00:00:02.314><c>days  </c><00:00:02.316><c>very </c><00:00:02.318><c>much </c><00:00:02.320><c>for </c><00:00:02.322><c>the </c><00:00:02.324><c>supporter </c><00:00:02.326><c>particularly  </c><00:00:02.328><c>those </c><00:00:02.330><c>who </c><00:00:02.332><c>have </c><00:00:02.334><c>certainly </c><00:00:02.336><c>come </c><00:00:02.338><c>occasion  </c><00:00:02.340><c>particularly </c><00:00:02.342><c>for </c><00:00:02.344><c>those </c><00:00:02.346><c>who </c><00:00:02.348><c>come </c><00:00:02.350><c>in </c><00:00:02.352><c>the  </c><00:00:02.354><c>week </c><00:00:02.356><c>when </c><00:00:02.358><c>there </c><00:00:02.360><c>aren't </c><00:00:02.362><c>matches </c><00:00:02.364><c>they </c><00:00:02.366><c>have  </c><00:00:02.368><c>a </c><00:00:02.370><c>wonderful </c><00:00:02.372><c>tourist </c><00:00:02.374><c>trail </c><00:00:02.376><c>around </c><00:00:02.378><c>it </c><00:00:02.380><c>and  </c><00:00:02.382><c>on </c><00:00:02.384><c>the </c><00:00:02.386><c>pitch </c><00:00:02.388><c>it </c><00:00:02.390><c>must </c><00:00:02.392><c>be </c><00:00:02.394><c>an </c><00:00:02.396><c>amazing </c><00:00:02.398><c>place  </c><00:00:02.400><c>to </c><00:00:02.402><c>play </c><00:00:02.404><c>you </c><00:00:02.406><c>can </c><00:00:02.408><c>say </c><00:00:02.410><c>that </c><00:00:02.412><c>again </c><00:00:02.414><c>they </c><00:00:02.416><c>do  </c><00:00:02.418><c>call </c><00:00:02.420><c>it </c><00:00:02.422><c>the </c><00:00:02.424><c>theater </c><00:00:02.426><c>of </c><00:00:02.428><c>dreams </c><00:00:02.430><c>for </c><00:00:02.432><c>a  </c><00:00:02.434><c>reason </c><00:00:02.436><c>so </c><00:00:02.438><c>much </c><00:00:02.440><c>has </c><00:00:02.442><c>been </c><00:00:02.444><c>won </c><00:00:02.446><c>on </c><00:00:02.448><c>this  </c><00:00:02.450><c>pitch </c><00:00:02.452><c>by </c><00:00:02.454><c>the </c><00:00:02.456><c>home </c><00:00:02.458><c>team </c><00:00:02.460><c>and </c><00:00:02.462><c>the </c><00:00:02.464><c>away </c><00:00:02.466><c>one  </c><00:00:02.468><c>dma </c><00:00:02.470><c>santoso </c><00:00:02.472><c>is </c><00:00:02.474><c>the </c><00:00:02.476><c>ref  </c><00:00:02.478><c>[Applause]  </c><00:00:02.480><c>Manchester </c><00:00:02.482><c>United </c><00:00:02.484><c>getting </c><00:00:02.486><c>the </c><00:00:02.488><c>first </c><00:00:02.490><c>half  </c><00:00:02.492><c>underway  </c><00:00:02.494><c>[Applause]  </c><00:00:02.496><c>and </c><00:00:02.498><c>the </c><00:00:02.500><c>cross </c><00:00:02.502><c>is </c><00:00:02.504><c>in  </c><00:00:02.506><c>those </c><00:00:02.508><c>straps </c><00:00:02.510><c>when </c><00:00:02.512><c>they </c><00:00:02.514><c>attack </c><00:00:02.516><c>has </c><00:00:02.518><c>to  </c><00:00:02.520><c>feed </c><00:00:02.522><c>on </c><00:00:02.524><c>from </c><00:00:02.526><c>the </c><00:00:02.528><c>goalkeeper </c><00:00:02.530><c>that </c><00:00:02.532><c>time  </c><00:00:02.534><c>hang </c><00:00:02.536><c>on </c><00:00:02.538><c>to </c><00:00:02.540><c>the </c><00:00:02.542><c>ball </c><00:00:02.544><c>well  </c><00:00:02.546><c>Iniesta </c><00:00:02.548><c>here's </c><00:00:02.550><c>a </c><00:00:02.552><c>chance </c><00:00:02.554><c>to </c><00:00:02.556><c>move </c><00:00:02.558><c>forward  </c><00:00:02.560><c>from </c><00:00:02.562><c>midfield </c><00:00:02.564><c>after </c><00:00:02.566><c>that </c><00:00:02.568><c>interception  </c><00:00:02.570><c>even </c><00:00:02.572><c>rocket </c><00:00:02.574><c>hitch  </c><00:00:02.576><c>they </c><00:00:02.578><c>might </c><00:00:02.580><c>open </c><00:00:02.582><c>them </c><00:00:02.584><c>up </c><00:00:02.586><c>now  </c><00:00:02.588><c>we </c><00:00:02.590><c>feel </c><00:00:02.592><c>good </c><00:00:02.594><c>about </c><00:00:02.596><c>that </c><00:00:02.598><c>a </c><00:00:02.600><c>really </c><00:00:02.602><c>strong  </c><00:00:02.604><c>clean </c><00:00:02.606><c>tackle  </c><00:00:02.608><c>good </c><00:00:02.610><c>position </c><00:00:02.612><c>that's </c><00:00:02.614><c>what </c><00:00:02.616><c>a </c><00:00:02.618><c>well </c><00:00:02.620><c>read </c><00:00:02.622><c>by  </c><00:00:02.624><c>the </c><00:00:02.626><c>goalkeeper </c><00:00:02.628><c>they </c><00:00:02.630><c>do </c><00:00:02.632><c>hate </c><00:00:02.634><c>being  </c><00:00:02.636><c>chipped </c><00:00:02.638><c>keepers </c><00:00:02.640><c>don't </c><00:00:02.642><c>they </c><00:00:02.644><c>they </c><00:00:02.646><c>do </c><00:00:02.648><c>it  </c><00:00:02.650><c>too </c><00:00:02.652><c>and </c><00:00:02.654><c>he </c><00:00:02.656><c>did </c><00:00:02.658><c>anticipate </c><00:00:02.660><c>it </c><00:00:02.662><c>and  </c><00:00:02.664><c>collected </c><00:00:02.666><c>it </c><00:00:02.668><c>comfortably </c><00:00:02.670><c>in </c><00:00:02.672><c>the </c><00:00:02.674><c>end </c><00:00:02.676><c>the  </c><00:00:02.678><c>man </c><00:00:02.680><c>you </c><00:00:02.682><c>automatic  </c><00:00:02.684><c>the </c><00:00:02.686><c>short-term </c><00:00:02.688><c>water </c><00:00:02.690><c>fine </c><00:00:02.692><c>save </c><00:00:02.694><c>and </c><00:00:02.696><c>at </c><00:00:02.698><c>a  </c><00:00:02.700><c>corner </c><00:00:02.702><c>for </c><00:00:02.704><c>Manchester </c><00:00:02.706><c>United  </c><00:00:02.708><c>[Applause]  </c><00:00:02.710><c>Challenge </c><00:00:02.712><c>for </c><00:00:02.714><c>the </c><00:00:02.716><c>cross  </c><00:00:02.718><c>that </c><00:00:02.720><c>should </c><00:00:02.722><c>be </c><00:00:02.724><c>felt </c><00:00:02.726><c>it </c><00:00:02.728><c>is  </c><00:00:02.730><c>oh </c><00:00:02.732><c>what </c><00:00:02.734><c>a </c><00:00:02.736><c>mess </c><00:00:02.738><c>oh </c><00:00:02.740><c>the </c><00:00:02.742><c>pressure </c><00:00:02.744><c>has </c><00:00:02.746><c>got  </c><00:00:02.748><c>to </c><00:00:02.750><c>him </c><00:00:02.752><c>big </c><00:00:02.754><c>time  </c><00:00:02.756><c>[Applause]  </c><00:00:02.758><c>piqué  </c><00:00:02.760><c>nearly </c><00:00:02.762><c>Suarez  </c><00:00:02.764><c>[Applause]  </c><00:00:02.766><c>that's </c><00:00:02.768><c>a </c><00:00:02.770><c>good </c><00:00:02.772><c>challenge  </c><00:00:02.774><c>wonderful </c><00:00:02.776><c>say  </c><00:00:02.778><c>to </c><00:00:02.780><c>really </c><00:00:02.782><c>reach </c><00:00:02.784><c>out </c><00:00:02.786><c>for </c><00:00:02.788><c>that  </c><00:00:02.790><c>[Applause]  </c><00:00:02.792><c>that </c><00:00:02.794><c>will </c><00:00:02.796><c>end </c><00:00:02.798><c>the </c><00:00:02.800><c>threat </c><00:00:02.802><c>at </c><00:00:02.804><c>least </c><00:00:02.806><c>for  </c><00:00:02.808><c>the </c><00:00:02.810><c>moment </c><00:00:02.812><c>he's </c><00:00:02.814><c>moved </c><00:00:02.816><c>in </c><00:00:02.818><c>trying </c><00:00:02.820><c>to </c><00:00:02.822><c>just  </c><00:00:02.824><c>on </c><00:00:02.826><c>the </c><00:00:02.828><c>opponent </c><00:00:02.830><c>of </c><00:00:02.832><c>his </c><00:00:02.834><c>stride  </c><00:00:02.836><c>mas </c><00:00:02.838><c>good </c><00:00:02.840><c>support </c><00:00:02.842><c>as </c><00:00:02.844><c>they </c><00:00:02.846><c>build </c><00:00:02.848><c>this  </c><00:00:02.850><c>attack  </c><00:00:02.852><c>they're </c><00:00:02.854><c>grateful </c><00:00:02.856><c>for </c><00:00:02.858><c>that </c><00:00:02.860><c>to </c><00:00:02.862><c>have </c><00:00:02.864><c>an  </c><00:00:02.866><c>intervention </c><00:00:02.868><c>like </c><00:00:02.870><c>that </c><00:00:02.872><c>and </c><00:00:02.874><c>get </c><00:00:02.876><c>back </c><00:00:02.878><c>on  </c><00:00:02.880><c>the </c><00:00:02.882><c>ball </c><00:00:02.884><c>when </c><00:00:02.886><c>they're </c><00:00:02.888><c>defending </c><00:00:02.890><c>so </c><00:00:02.892><c>much  </c><00:00:02.894><c>and </c><00:00:02.896><c>now </c><00:00:02.898><c>NES </c><00:00:02.900><c>do  </c><00:00:02.902><c>papa  </c><00:00:02.904><c>that's </c><00:00:02.906><c>very </c><00:00:02.908><c>good </c><00:00:02.910><c>positional </c><00:00:02.912><c>play </c><00:00:02.914><c>and  </c><00:00:02.916><c>he's </c><00:00:02.918><c>read </c><00:00:02.920><c>the </c><00:00:02.922><c>situation </c><00:00:02.924><c>perfectly </c><00:00:02.926><c>with  </c><00:00:02.928><c>that </c><00:00:02.930><c>interception </c><00:00:02.932><c>cutoff </c><00:00:02.934><c>say  </c><00:00:02.936><c>driving </c><00:00:02.938><c>goalkeeper </c><00:00:02.940><c>and </c><00:00:02.942><c>that </c><00:00:02.944><c>will </c><00:00:02.946><c>be </c><00:00:02.948><c>a  </c><00:00:02.950><c>corner </c><00:00:02.952><c>for </c><00:00:02.954><c>United  </c><00:00:02.956><c>free </c><00:00:02.958><c>kick </c><00:00:02.960><c>hat  </c><00:00:02.962><c>[Applause]  </c><00:00:02.964><c>it's </c><00:00:02.966><c>what </c><00:00:02.968><c>you </c><00:00:02.970><c>do </c><00:00:02.972><c>when </c><00:00:02.974><c>you </c><00:00:02.976><c>get </c><00:00:02.978><c>the </c><00:00:02.980><c>ball  </c><00:00:02.982><c>that </c><00:00:02.984><c>really </c><00:00:02.986><c>counts </c><00:00:02.988><c>and </c><00:00:02.990><c>they're </c><00:00:02.992><c>trying </c><00:00:02.994><c>to  </c><00:00:02.996><c>make </c><00:00:02.998><c>the </c><00:00:03.000><c>most </c><00:00:03.002><c>of </c><00:00:03.004><c>that </c><00:00:03.006><c>turnover </c><00:00:03.008><c>in </c><00:00:03.010><c>play  </c><00:00:03.012><c>and </c><00:00:03.014><c>now </c><00:00:03.016><c>any </c><00:00:03.018><c>ESCA  </c><00:00:03.020><c>he's </c><00:00:03.022><c>looking </c><00:00:03.024><c>for </c><00:00:03.026><c>the </c><00:00:03.028><c>cross  </c><00:00:03.030><c>[Applause]  </c><00:00:03.032><c>that's </c><00:00:03.034><c>a </c><00:00:03.036><c>corner </c><00:00:03.038><c>barcelona's </c><00:00:03.040><c>cool  </c><00:00:03.042><c>[Applause]  </c><00:00:03.044><c>and </c><00:00:03.046><c>he </c><00:00:03.048><c>lost </c><00:00:03.050><c>it </c><00:00:03.052><c>in </c><00:00:03.054><c>the </c><00:00:03.056><c>earlier </c><00:00:03.058><c>challenge  </c><00:00:03.060><c>and </c><00:00:03.062><c>now </c><00:00:03.064><c>he's </c><00:00:03.066><c>pitched </c><00:00:03.068><c>the </c><00:00:03.070><c>ball </c><00:00:03.072><c>back </c><00:00:03.074><c>Todd  </c><00:00:03.076><c>back  </c><00:00:03.078><c>but </c><00:00:03.080><c>now </c><00:00:03.082><c>they've </c><00:00:03.084><c>won </c><00:00:03.086><c>the </c><00:00:03.088><c>ball </c><00:00:03.090><c>back </c><00:00:03.092><c>in </c><00:00:03.094><c>the  </c><00:00:03.096><c>middle </c><00:00:03.098><c>of </c><00:00:03.100><c>the </c><00:00:03.102><c>park </c><00:00:03.104><c>by </c><00:00:03.106><c>intercepting </c><00:00:03.108><c>that  </c><00:00:03.110><c>pass  </c><00:00:03.112><c>on </c><00:00:03.114><c>the </c><00:00:03.116><c>attack </c><00:00:03.118><c>here  </c><00:00:03.120><c>look  </c><00:00:03.122><c>defender </c><00:00:03.124><c>has </c><00:00:03.126><c>dispossessed </c><00:00:03.128><c>it  </c><00:00:03.130><c>Barcelona </c><00:00:03.132><c>have </c><00:00:03.134><c>yet </c><00:00:03.136><c>to </c><00:00:03.138><c>really </c><00:00:03.140><c>make </c><00:00:03.142><c>an  </c><00:00:03.144><c>impact </c><00:00:03.146><c>on </c><00:00:03.148><c>the </c><00:00:03.150><c>game </c><00:00:03.152><c>or </c><00:00:03.154><c>no </c><00:00:03.156><c>shots </c><00:00:03.158><c>at </c><00:00:03.160><c>all </c><00:00:03.162><c>so  </c><00:00:03.164><c>far </c><00:00:03.166><c>for </c><00:00:03.168><c>Barcelona </c><00:00:03.170><c>you </c><00:00:03.172><c>have </c><00:00:03.174><c>to </c><00:00:03.176><c>wonder </c><00:00:03.178><c>are  </c><00:00:03.180><c>we </c><00:00:03.182><c>going </c><00:00:03.184><c>to </c><00:00:03.186><c>see </c><00:00:03.188><c>a </c><00:00:03.190><c>shot </c><00:00:03.192><c>here </c><00:00:03.194><c>before </c><00:00:03.196><c>the  </c><00:00:03.198><c>game </c><00:00:03.200><c>is </c><00:00:03.202><c>out </c><00:00:03.204><c>the </c><00:00:03.206><c>fans </c><00:00:03.208><c>are </c><00:00:03.210><c>absolutely  </c><00:00:03.212><c>furious  </c><00:00:03.214><c>that </c><00:00:03.216><c>blocked </c><00:00:03.218><c>it </c><00:00:03.220><c>well </c><00:00:03.222><c>for </c><00:00:03.224><c>a </c><00:00:03.226><c>for  </c><00:00:03.228><c>Manchester </c><00:00:03.230><c>United  </c><00:00:03.232><c>that's </c><00:00:03.234><c>the </c><00:00:03.236><c>way </c><00:00:03.238><c>to </c><00:00:03.240><c>win </c><00:00:03.242><c>the </c><00:00:03.244><c>ball </c><00:00:03.246><c>back </c><00:00:03.248><c>and  </c><00:00:03.250><c>now </c><00:00:03.252><c>any </c><00:00:03.254><c>Esther </c><00:00:03.256><c>pogba </c><00:00:03.258><c>matter  </c><00:00:03.260><c>United </c><00:00:03.262><c>Corner  </c><00:00:03.264><c>[Applause]  </c><00:00:03.266><c>that </c><00:00:03.268><c>is </c><00:00:03.270><c>textbook </c><00:00:03.272><c>grab </c><00:00:03.274><c>him </c><00:00:03.276><c>well </c><00:00:03.278><c>they've  </c><00:00:03.280><c>got </c><00:00:03.282><c>power </c><00:00:03.284><c>they've </c><00:00:03.286><c>got </c><00:00:03.288><c>Heights </c><00:00:03.290><c>and </c><00:00:03.292><c>when  </c><00:00:03.294><c>the </c><00:00:03.296><c>corn </c><00:00:03.298><c>is </c><00:00:03.300><c>that </c><00:00:03.302><c>accurate </c><00:00:03.304><c>only </c><00:00:03.306><c>one </c><00:00:03.308><c>end  </c><00:00:03.310><c>result </c><00:00:03.312><c>let's </c><00:00:03.314><c>see </c><00:00:03.316><c>the </c><00:00:03.318><c>replay </c><00:00:03.320><c>now  </c><00:00:03.322><c>in </c><00:00:03.324><c>front </c><00:00:03.326><c>here </c><00:00:03.328><c>at </c><00:00:03.330><c>Manchester </c><00:00:03.332><c>United  </c><00:00:03.334><c>[Applause]  </c><00:00:03.336><c>the </c><00:00:03.338><c>value </c><00:00:03.340><c>of </c><00:00:03.342><c>mattock  </c><00:00:03.344><c>the </c><00:00:03.346><c>challenge </c><00:00:03.348><c>he </c><00:00:03.350><c>made </c><00:00:03.352><c>the </c><00:00:03.354><c>block  </c><00:00:03.356><c>even </c><00:00:03.358><c>rocket </c><00:00:03.360><c>hitch  </c><00:00:03.362><c>[Applause]  </c><00:00:03.364><c>shut </c><00:00:03.366><c>up </c><00:00:03.368><c>great </c><00:00:03.370><c>stop  </c><00:00:03.372><c>[Applause]  </c><00:00:03.374><c>oh </c><00:00:03.376><c>they </c><00:00:03.378><c>look </c><00:00:03.380><c>promising </c><00:00:03.382><c>there </c><00:00:03.384><c>in </c><00:00:03.386><c>that  </c><00:00:03.388><c>wide </c><00:00:03.390><c>area </c><00:00:03.392><c>the </c><00:00:03.394><c>defenders </c><00:00:03.396><c>done </c><00:00:03.398><c>well  </c><00:00:03.400><c>[Applause]  </c><00:00:03.402><c>even </c><00:00:03.404><c>rocket </c><00:00:03.406><c>hitch </c><00:00:03.408><c>Papa </c><00:00:03.410><c>Murphy's </c><00:00:03.412><c>chosen  </c><00:00:03.414><c>to </c><00:00:03.416><c>add </c><00:00:03.418><c>on </c><00:00:03.420><c>two </c><00:00:03.422><c>extra </c><00:00:03.424><c>minutes  </c><00:00:03.426><c>retain </c><00:00:03.428><c>for </c><00:00:03.430><c>the </c><00:00:03.432><c>kpop  </c><00:00:03.434><c>help </c><00:00:03.436><c>ease </c><00:00:03.438><c>the </c><00:00:03.440><c>pressure  </c><00:00:03.442><c>[Applause]  </c><00:00:03.444><c>so </c><00:00:03.446><c>it's </c><00:00:03.448><c>one </c><00:00:03.450><c>nil </c><00:00:03.452><c>here </c><00:00:03.454><c>as </c><00:00:03.456><c>the </c><00:00:03.458><c>half-time  </c><00:00:03.460><c>whistle </c><00:00:03.462><c>goes </c><00:00:03.464><c>it's </c><00:00:03.466><c>at </c><00:00:03.468><c>the </c><00:00:03.470><c>start </c><00:00:03.472><c>of </c><00:00:03.474><c>the  </c><00:00:03.476><c>game </c><00:00:03.478><c>you've </c><00:00:03.480><c>suggested </c><00:00:03.482><c>a </c><00:00:03.484><c>scenario </c><00:00:03.486><c>a  </c><00:00:03.488><c>halftime </c><00:00:03.490><c>like </c><00:00:03.492><c>the </c><00:00:03.494><c>one </c><00:00:03.496><c>we've </c><00:00:03.498><c>got </c><00:00:03.500><c>they'd  </c><00:00:03.502><c>be </c><00:00:03.504><c>delighted </c><00:00:03.506><c>wouldn't </c><00:00:03.508><c>they </c><00:00:03.510><c>I </c><00:00:03.512><c>think </c><00:00:03.514><c>so </c><00:00:03.516><c>I  </c><00:00:03.518><c>mean </c><00:00:03.520><c>the </c><00:00:03.522><c>way </c><00:00:03.524><c>they </c><00:00:03.526><c>pass </c><00:00:03.528><c>the </c><00:00:03.530><c>ball </c><00:00:03.532><c>about  </c><00:00:03.534><c>you </c><00:00:03.536><c>and </c><00:00:03.538><c>with </c><00:00:03.540><c>the </c><00:00:03.542><c>team </c><00:00:03.544><c>trailing </c><00:00:03.546><c>you </c><00:00:03.548><c>can  </c><00:00:03.550><c>understand </c><00:00:03.552><c>why </c><00:00:03.554><c>he's </c><00:00:03.556><c>going </c><00:00:03.558><c>to </c><00:00:03.560><c>make </c><00:00:03.562><c>it  </c><00:00:03.564><c>[Applause]  </c><00:00:03.566><c>saw </c><00:00:03.568><c>that </c><00:00:03.570><c>parts </c><00:00:03.572><c>coming </c><00:00:03.574><c>in </c><00:00:03.576><c>midfield </c><00:00:03.578><c>made  </c><00:00:03.580><c>the </c><00:00:03.582><c>intervention </c><00:00:03.584><c>and </c><00:00:03.586><c>now </c><00:00:03.588><c>maybe </c><00:00:03.590><c>he </c><00:00:03.592><c>can  </c><00:00:03.594><c>push </c><00:00:03.596><c>the </c><00:00:03.598><c>team </c><00:00:03.600><c>forward </c><00:00:03.602><c>with </c><00:00:03.604><c>his </c><00:00:03.606><c>work </c><00:00:03.608><c>on  </c><00:00:03.610><c>the </c><00:00:03.612><c>ball </c><00:00:03.614><c>quick </c><00:00:03.616><c>head </c><00:00:03.618><c>up </c><00:00:03.620><c>found </c><00:00:03.622><c>a </c><00:00:03.624><c>teammate  </c><00:00:03.626><c>[Applause]  </c><00:00:03.628><c>luis </c><00:00:03.630><c>suarez  </c><00:00:03.632><c>[Applause]  </c><00:00:03.634><c>well </c><00:00:03.636><c>they're </c><00:00:03.638><c>in </c><00:00:03.640><c>a </c><00:00:03.642><c>good </c><00:00:03.644><c>position </c><00:00:03.646><c>here </c><00:00:03.648><c>the  </c><00:00:03.650><c>magnetic  </c><00:00:03.652><c>Romelu </c><00:00:03.654><c>Lukaku </c><00:00:03.656><c>excellent </c><00:00:03.658><c>way </c><00:00:03.660><c>to </c><00:00:03.662><c>lose  </c><00:00:03.664><c>market  </c><00:00:03.666><c>[Applause]  </c><00:00:03.668><c>and </c><00:00:03.670><c>he's </c><00:00:03.672><c>put </c><00:00:03.674><c>it </c><00:00:03.676><c>in </c><00:00:03.678><c>to </c><00:00:03.680><c>the </c><00:00:03.682><c>gold  </c><00:00:03.684><c>top-quality </c><00:00:03.686><c>no </c><00:00:03.688><c>doubt </c><00:00:03.690><c>about </c><00:00:03.692><c>it </c><00:00:03.694><c>that's </c><00:00:03.696><c>all  </c><00:00:03.698><c>about </c><00:00:03.700><c>anticipation </c><00:00:03.702><c>and </c><00:00:03.704><c>just </c><00:00:03.706><c>snuffing </c><00:00:03.708><c>up  </c><00:00:03.710><c>the </c><00:00:03.712><c>rebound </c><00:00:03.714><c>different </c><00:00:03.716><c>angle </c><00:00:03.718><c>on </c><00:00:03.720><c>it </c><00:00:03.722><c>here  </c><00:00:03.724><c>restarting </c><00:00:03.726><c>at </c><00:00:03.728><c>tuna  </c><00:00:03.730><c>[Applause]  </c><00:00:03.732><c>stay </c><00:00:03.734><c>on </c><00:00:03.736><c>its </c><00:00:03.738><c>feet  </c><00:00:03.740><c>very </c><00:00:03.742><c>good </c><00:00:03.744><c>tackle  </c><00:00:03.746><c>Leonel </c><00:00:03.748><c>messy  </c><00:00:03.750><c>at </c><00:00:03.752><c>that </c><00:00:03.754><c>bench </c><00:00:03.756><c>Barcelona </c><00:00:03.758><c>what </c><00:00:03.760><c>to </c><00:00:03.762><c>make </c><00:00:03.764><c>a  </c><00:00:03.766><c>change </c><00:00:03.768><c>now  </c><00:00:03.770><c>the </c><00:00:03.772><c>man </c><00:00:03.774><c>you </c><00:00:03.776><c>have </c><00:00:03.778><c>Matich </c><00:00:03.780><c>Romelu </c><00:00:03.782><c>Lukaku  </c><00:00:03.784><c>they've </c><00:00:03.786><c>got </c><00:00:03.788><c>it </c><00:00:03.790><c>away </c><00:00:03.792><c>from </c><00:00:03.794><c>the </c><00:00:03.796><c>danger  </c><00:00:03.798><c>keeps </c><00:00:03.800><c>it </c><00:00:03.802><c>going  </c><00:00:03.804><c>just </c><00:00:03.806><c>on </c><00:00:03.808><c>target </c><00:00:03.810><c>yeah </c><00:00:03.812><c>unlucky </c><00:00:03.814><c>because </c><00:00:03.816><c>it  </c><00:00:03.818><c>got </c><00:00:03.820><c>some </c><00:00:03.822><c>power </c><00:00:03.824><c>beyond </c><00:00:03.826><c>the </c><00:00:03.828><c>ball </c><00:00:03.830><c>just </c><00:00:03.832><c>not  </c><00:00:03.834><c>the </c><00:00:03.836><c>direction </c><00:00:03.838><c>activity </c><00:00:03.840><c>on </c><00:00:03.842><c>the </c><00:00:03.844><c>bench </c><00:00:03.846><c>for  </c><00:00:03.848><c>the </c><00:00:03.850><c>losing </c><00:00:03.852><c>team </c><00:00:03.854><c>a </c><00:00:03.856><c>substitute </c><00:00:03.858><c>getting  </c><00:00:03.860><c>ready </c><00:00:03.862><c>to </c><00:00:03.864><c>come </c><00:00:03.866><c>on </c><00:00:03.868><c>TT  </c><00:00:03.870><c>nice </c><00:00:03.872><c>return </c><00:00:03.874><c>pass </c><00:00:03.876><c>luis </c><00:00:03.878><c>suarez  </c><00:00:03.880><c>must </c><00:00:03.882><c>like </c><00:00:03.884><c>to </c><00:00:03.886><c>get </c><00:00:03.888><c>the </c><00:00:03.890><c>throw  </c><00:00:03.892><c>[Applause]  </c><00:00:03.894><c>mata  </c><00:00:03.896><c>played </c><00:00:03.898><c>down </c><00:00:03.900><c>the </c><00:00:03.902><c>wing </c><00:00:03.904><c>keeping </c><00:00:03.906><c>the </c><00:00:03.908><c>wide  </c><00:00:03.910><c>attack </c><00:00:03.912><c>going </c><00:00:03.914><c>lost </c><00:00:03.916><c>his </c><00:00:03.918><c>man  </c><00:00:03.920><c>take </c><00:00:03.922><c>the </c><00:00:03.924><c>chance </c><00:00:03.926><c>with </c><00:00:03.928><c>the </c><00:00:03.930><c>shot </c><00:00:03.932><c>they're  </c><00:00:03.934><c>here </c><00:00:03.936><c>thought </c><00:00:03.938><c>you </c><00:00:03.940><c>might </c><00:00:03.942><c>have </c><00:00:03.944><c>done </c><00:00:03.946><c>better  </c><00:00:03.948><c>that </c><00:00:03.950><c>had </c><00:00:03.952><c>a </c><00:00:03.954><c>bit </c><00:00:03.956><c>of </c><00:00:03.958><c>time </c><00:00:03.960><c>in </c><00:00:03.962><c>space </c><00:00:03.964><c>good  </c><00:00:03.966><c>position  </c><00:00:03.968><c>even </c><00:00:03.970><c>rocket </c><00:00:03.972><c>ish  </c><00:00:03.974><c>Romelu </c><00:00:03.976><c>Lukaku </c><00:00:03.978><c>the </c><00:00:03.980><c>money </c><00:00:03.982><c>at </c><00:00:03.984><c>matok </c><00:00:03.986><c>that's  </c><00:00:03.988><c>a </c><00:00:03.990><c>good </c><00:00:03.992><c>challenge  </c><00:00:03.994><c>that </c><00:00:03.996><c>Torah  </c><00:00:03.998><c>[Applause]  </c><00:00:04.000><c>now </c><00:00:04.002><c>he's </c><00:00:04.004><c>looking </c><00:00:04.006><c>for </c><00:00:04.008><c>support  </c><00:00:04.010><c>let's </c><00:00:04.012><c>crust </c><00:00:04.014><c>it </c><00:00:04.016><c>well </c><00:00:04.018><c>he's </c><00:00:04.020><c>got </c><00:00:04.022><c>it </c><00:00:04.024><c>away </c><00:00:04.026><c>and  </c><00:00:04.028><c>that's </c><00:00:04.030><c>what </c><00:00:04.032><c>you </c><00:00:04.034><c>have </c><00:00:04.036><c>to </c><00:00:04.038><c>do  </c><00:00:04.040><c>add </c><00:00:04.042><c>that </c><00:00:04.044><c>Torah </c><00:00:04.046><c>moving </c><00:00:04.048><c>the </c><00:00:04.050><c>opposition  </c><00:00:04.052><c>around </c><00:00:04.054><c>with </c><00:00:04.056><c>their </c><00:00:04.058><c>play </c><00:00:04.060><c>these </c><00:00:04.062><c>two </c><00:00:04.064><c>players  </c><00:00:04.066><c>ha  </c><00:00:04.068><c>well </c><00:00:04.070><c>they're </c><00:00:04.072><c>back </c><00:00:04.074><c>defending </c><00:00:04.076><c>and </c><00:00:04.078><c>they've  </c><00:00:04.080><c>cut </c><00:00:04.082><c>the </c><00:00:04.084><c>pass </c><00:00:04.086><c>out </c><00:00:04.088><c>there </c><00:00:04.090><c>and </c><00:00:04.092><c>maybe </c><00:00:04.094><c>that  </c><00:00:04.096><c>will </c><00:00:04.098><c>ease </c><00:00:04.100><c>the </c><00:00:04.102><c>pressure </c><00:00:04.104><c>samuel </c><00:00:04.106><c>MTT  </c><00:00:04.108><c>Jordi </c><00:00:04.110><c>Alba  </c><00:00:04.112><c>looking </c><00:00:04.114><c>a </c><00:00:04.116><c>little </c><00:00:04.118><c>messy </c><00:00:04.120><c>good </c><00:00:04.122><c>place </c><00:00:04.124><c>to </c><00:00:04.126><c>win  </c><00:00:04.128><c>the </c><00:00:04.130><c>ball </c><00:00:04.132><c>back </c><00:00:04.134><c>there </c><00:00:04.136><c>because </c><00:00:04.138><c>the </c><00:00:04.140><c>pressure  </c><00:00:04.142><c>was </c><00:00:04.144><c>starting </c><00:00:04.146><c>to </c><00:00:04.148><c>mount </c><00:00:04.150><c>and </c><00:00:04.152><c>the  </c><00:00:04.154><c>interception </c><00:00:04.156><c>was </c><00:00:04.158><c>timely </c><00:00:04.160><c>to </c><00:00:04.162><c>say </c><00:00:04.164><c>the </c><00:00:04.166><c>least  </c><00:00:04.168><c>Jordi </c><00:00:04.170><c>Alba  </c><00:00:04.172><c>can't </c><00:00:04.174><c>keep </c><00:00:04.176><c>the </c><00:00:04.178><c>ball </c><00:00:04.180><c>at </c><00:00:04.182><c>the </c><00:00:04.184><c>moment  </c><00:00:04.186><c>he's </c><00:00:04.188><c>got </c><00:00:04.190><c>a </c><00:00:04.192><c>crust </c><00:00:04.194><c>to </c><00:00:04.196><c>make </c><00:00:04.198><c>that  </c><00:00:04.200><c>interception </c><00:00:04.202><c>he </c><00:00:04.204><c>saw </c><00:00:04.206><c>it </c><00:00:04.208><c>coming  </c><00:00:04.210><c>Antonio </c><00:00:04.212><c>Valencia </c><00:00:04.214><c>even </c><00:00:04.216><c>racket </c><00:00:04.218><c>each  </c><00:00:04.220><c>here's </c><00:00:04.222><c>the </c><00:00:04.224><c>shot </c><00:00:04.226><c>and </c><00:00:04.228><c>the </c><00:00:04.230><c>goalkeeper </c><00:00:04.232><c>got </c><00:00:04.234><c>a  </c><00:00:04.236><c>touch </c><00:00:04.238><c>to </c><00:00:04.240><c>that </c><00:00:04.242><c>pine </c><00:00:04.244><c>saved  </c><00:00:04.246><c>[Applause]  </c><00:00:04.248><c>Jordi </c><00:00:04.250><c>Alba  </c><00:00:04.252><c>said </c><00:00:04.254><c>you're </c><00:00:04.256><c>a </c><00:00:04.258><c>better </c><00:00:04.260><c>Barcelona </c><00:00:04.262><c>I've </c><00:00:04.264><c>got  </c><00:00:04.266><c>a </c><00:00:04.268><c>chance </c><00:00:04.270><c>here </c><00:00:04.272><c>let's </c><00:00:04.274><c>go  </c><00:00:04.276><c>[Applause]  </c><00:00:04.278><c>there's </c><00:00:04.280><c>new </c><00:00:04.282><c>hope </c><00:00:04.284><c>they </c><00:00:04.286><c>cut </c><00:00:04.288><c>it </c><00:00:04.290><c>back </c><00:00:04.292><c>to  </c><00:00:04.294><c>what </c><00:00:04.296><c>I </c><00:00:04.298><c>thought </c><00:00:04.300><c>this </c><00:00:04.302><c>game </c><00:00:04.304><c>was </c><00:00:04.306><c>done </c><00:00:04.308><c>and  </c><00:00:04.310><c>dusted </c><00:00:04.312><c>but </c><00:00:04.314><c>anything </c><00:00:04.316><c>but </c><00:00:04.318><c>now </c><00:00:04.320><c>or </c><00:00:04.322><c>it's </c><00:00:04.324><c>a  </c><00:00:04.326><c>great </c><00:00:04.328><c>finish </c><00:00:04.330><c>to </c><00:00:04.332><c>take </c><00:00:04.334><c>the </c><00:00:04.336><c>keeper </c><00:00:04.338><c>at </c><00:00:04.340><c>the  </c><00:00:04.342><c>equation </c><00:00:04.344><c>I </c><00:00:04.346><c>mean </c><00:00:04.348><c>the </c><00:00:04.350><c>keeper </c><00:00:04.352><c>no </c><00:00:04.354><c>chance  </c><00:00:04.356><c>there </c><00:00:04.358><c>bottom </c><00:00:04.360><c>corner </c><00:00:04.362><c>that's </c><00:00:04.364><c>United's  </c><00:00:04.366><c>free-kick  </c><00:00:04.368><c>[Applause]  </c><00:00:04.370><c>it's </c><00:00:04.372><c>noticeable </c><00:00:04.374><c>that </c><00:00:04.376><c>the </c><00:00:04.378><c>home </c><00:00:04.380><c>supporters  </c><00:00:04.382><c>trying </c><00:00:04.384><c>to </c><00:00:04.386><c>help </c><00:00:04.388><c>their </c><00:00:04.390><c>team </c><00:00:04.392><c>in </c><00:00:04.394><c>this  </c><00:00:04.396><c>situation </c><00:00:04.398><c>airing </c><00:00:04.400><c>what </c><00:00:04.402><c>could </c><00:00:04.404><c>be  </c><00:00:04.406><c>might </c><00:00:04.408><c>have </c><00:00:04.410><c>just </c><00:00:04.412><c>had </c><00:00:04.414><c>a </c><00:00:04.416><c>big </c><00:00:04.418><c>influence </c><00:00:04.420><c>on  </c><00:00:04.422><c>the </c><00:00:04.424><c>game </c><00:00:04.426><c>but </c><00:00:04.428><c>they've </c><00:00:04.430><c>dealt </c><00:00:04.432><c>with </c><00:00:04.434><c>it </c><00:00:04.436><c>and  </c><00:00:04.438><c>they </c><00:00:04.440><c>can </c><00:00:04.442><c>breathe </c><00:00:04.444><c>again  </c><00:00:04.446><c>[Applause]  </c><00:00:04.448><c>Romelu </c><00:00:04.450><c>Lukaku </c><00:00:04.452><c>we </c><00:00:04.454><c>shut </c><00:00:04.456><c>off </c><00:00:04.458><c>useful </c><00:00:04.460><c>block  </c><00:00:04.462><c>in </c><00:00:04.464><c>those </c><00:00:04.466><c>circumstances </c><00:00:04.468><c>and </c><00:00:04.470><c>it's </c><00:00:04.472><c>going </c><00:00:04.474><c>to  </c><00:00:04.476><c>be </c><00:00:04.478><c>his </c><00:00:04.480><c>tro </c><00:00:04.482><c>here </c><00:00:04.484><c>well </c><00:00:04.486><c>that's </c><00:00:04.488><c>another  </c><00:00:04.490><c>there's </c><00:00:04.492><c>another </c><00:00:04.494><c>angle </c><00:00:04.496><c>coming </c><00:00:04.498><c>up </c><00:00:04.500><c>here  </c><00:00:04.502><c>Alan  </c><00:00:04.504><c>wonderful </c><00:00:04.506><c>contact </c><00:00:04.508><c>on </c><00:00:04.510><c>the </c><00:00:04.512><c>ball </c><00:00:04.514><c>there  </c><00:00:04.516><c>shots </c><00:00:04.518><c>on </c><00:00:04.520><c>here </c><00:00:04.522><c>will  </c><00:00:04.524><c>see </c><00:00:04.526><c>the </c><00:00:04.528><c>wince </c><00:00:04.530><c>on </c><00:00:04.532><c>his </c><00:00:04.534><c>face </c><00:00:04.536><c>maybe </c><00:00:04.538><c>the  </c><00:00:04.540><c>muscles </c><00:00:04.542><c>gone </c><00:00:04.544><c>and </c><00:00:04.546><c>they've </c><00:00:04.548><c>got </c><00:00:04.550><c>their </c><00:00:04.552><c>new  </c><00:00:04.554><c>man </c><00:00:04.556><c>ready </c><00:00:04.558><c>Barcelona </c><00:00:04.560><c>to </c><00:00:04.562><c>make </c><00:00:04.564><c>the </c><00:00:04.566><c>change  </c><00:00:04.568><c>in </c><00:00:04.570><c>midfield </c><00:00:04.572><c>they've </c><00:00:04.574><c>got </c><00:00:04.576><c>it </c><00:00:04.578><c>backfire </c><00:00:04.580><c>an  </c><00:00:04.582><c>interception  </c><00:00:04.584><c>Romelu </c><00:00:04.586><c>Lukaku </c><00:00:04.588><c>matter  </c><00:00:04.590><c>good </c><00:00:04.592><c>width </c><00:00:04.594><c>in </c><00:00:04.596><c>the </c><00:00:04.598><c>attack </c><00:00:04.600><c>here </c><00:00:04.602><c>looking  </c><00:00:04.604><c>for </c><00:00:04.606><c>a </c><00:00:04.608><c>cross </c><00:00:04.610><c>at </c><00:00:04.612><c>the </c><00:00:04.614><c>end </c><00:00:04.616><c>of </c><00:00:04.618><c>it  </c><00:00:04.620><c>okay </c><00:00:04.622><c>well </c><00:00:04.624><c>well </c><00:00:04.626><c>well </c><00:00:04.628><c>we've </c><00:00:04.630><c>given </c><00:00:04.632><c>a  </c><00:00:04.634><c>penalty </c><00:00:04.636><c>it's </c><00:00:04.638><c>a </c><00:00:04.640><c>yellow </c><00:00:04.642><c>card </c><00:00:04.644><c>Alan </c><00:00:04.646><c>I </c><00:00:04.648><c>think  </c><00:00:04.650><c>that's </c><00:00:04.652><c>fair </c><00:00:04.654><c>enough  </c><00:00:04.656><c>from </c><00:00:04.658><c>the </c><00:00:04.660><c>ref </c><00:00:04.662><c>it </c><00:00:04.664><c>was </c><00:00:04.666><c>it </c><00:00:04.668><c>was </c><00:00:04.670><c>a </c><00:00:04.672><c>clear </c><00:00:04.674><c>foul  </c><00:00:04.676><c>and </c><00:00:04.678><c>it's </c><00:00:04.680><c>a </c><00:00:04.682><c>clear </c><00:00:04.684><c>penalty </c><00:00:04.686><c>coming </c><00:00:04.688><c>into </c><00:00:04.690><c>the  </c><00:00:04.692><c>match </c><00:00:04.694><c>is </c><00:00:04.696><c>ba </c><00:00:04.698><c>ba </c><00:00:04.700><c>ma </c><00:00:04.702><c>Sharada </c><00:00:04.704><c>maskatron </c><00:00:04.706><c>Oh  </c><00:00:04.708><c>Claire's </c><00:00:04.710><c>here  </c><00:00:04.712><c>the </c><00:00:04.714><c>referee </c><00:00:04.716><c>calls </c><00:00:04.718><c>a </c><00:00:04.720><c>halt  </c><00:00:04.722><c>it's </c><00:00:04.724><c>finished </c><00:00:04.726><c>ready </c><00:00:04.728><c>now </c><00:00:04.730><c>to </c><00:00:04.732><c>go </c><00:00:04.734><c>into  </c><00:00:04.736><c>competitive </c><00:00:04.738><c>action </c><00:00:04.740><c>again </c><00:00:04.742><c>you </c><00:00:04.744><c>would </c><00:00:04.746><c>feel  </c><00:00:04.748><c>having </c><00:00:04.750><c>won </c><00:00:04.752><c>this </c><00:00:04.754><c>friendly  </c><00:00:04.756><c>yeah </c><00:00:04.758><c>they </c><00:00:04.760><c>look </c><00:00:04.762><c>just </c><00:00:04.764><c>about </c><00:00:04.766><c>ready </c><00:00:04.768><c>to </c><00:00:04.770><c>me  </c><00:00:04.772><c>they </c><00:00:04.774><c>look </c><00:00:04.776><c>fit </c><00:00:04.778><c>and </c><00:00:04.780><c>they </c><00:00:04.782><c>have </c><00:00:04.784><c>settled </c><00:00:04.786><c>into  </c><00:00:04.788><c>a </c><00:00:04.790><c>system </c><00:00:04.792><c>that </c><00:00:04.794><c>they </c><00:00:04.796><c>look </c><00:00:04.798><c>comfortable </c><00:00:04.800><c>with  </c><00:00:04.802><c>[Applause]  </c><00:00:04.804><c>[Music]  </c><00:00:04.806><c>[Music]</c>
+
+00:00:07.690 --> 00:00:07.700 align:start position:0%
+II a sports to the game  [Applause]  [Applause]  [Applause]  that's death death death death death  death death  [Applause]  you  hi there I'm Martin Tyler with me today  as always Alan Smith Thank You Martin  looking forward to this one should be a  good game today's game manchester united  against barcelona  still very much the benchmark Barcelona  rather for the style of football and  little tweaks here and there but very  much it a standard that these players  have to rise to yes I think that's fair  tiki-taka he's known the short style  passing game amended it to a certain  extent I think you've got to do that  against certain sides manchester United  have designed Old Trafford these days  very much for the supporter particularly  those who have certainly come occasion  particularly for those who come in the  week when there aren't matches they have  a wonderful tourist trail around it and  on the pitch it must be an amazing place  to play you can say that again they do  call it the theater of dreams for a  reason so much has been won on this  pitch by the home team and the away one  dma santoso is the ref  [Applause]  Manchester United getting the first half  underway  [Applause]  and the cross is in  those straps when they attack has to  feed on from the goalkeeper that time  hang on to the ball well  Iniesta here's a chance to move forward  from midfield after that interception  even rocket hitch  they might open them up now  we feel good about that a really strong  clean tackle  good position that's what a well read by  the goalkeeper they do hate being  chipped keepers don't they they do it  too and he did anticipate it and  collected it comfortably in the end the  man you automatic  the short-term water fine save and at a  corner for Manchester United  [Applause]  Challenge for the cross  that should be felt it is  oh what a mess oh the pressure has got  to him big time  [Applause]  piqué  nearly Suarez  [Applause]  that's a good challenge  wonderful say  to really reach out for that  [Applause]  that will end the threat at least for  the moment he's moved in trying to just  on the opponent of his stride  mas good support as they build this  attack  they're grateful for that to have an  intervention like that and get back on  the ball when they're defending so much  and now NES do  papa  that's very good positional play and  he's read the situation perfectly with  that interception cutoff say  driving goalkeeper and that will be a  corner for United  free kick hat  [Applause]  it's what you do when you get the ball  that really counts and they're trying to  make the most of that turnover in play  and now any ESCA  he's looking for the cross  [Applause]  that's a corner barcelona's cool  [Applause]  and he lost it in the earlier challenge  and now he's pitched the ball back Todd  back  but now they've won the ball back in the  middle of the park by intercepting that  pass  on the attack here  look  defender has dispossessed it  Barcelona have yet to really make an  impact on the game or no shots at all so  far for Barcelona you have to wonder are  we going to see a shot here before the  game is out the fans are absolutely  furious  that blocked it well for a for  Manchester United  that's the way to win the ball back and  now any Esther pogba matter  United Corner  [Applause]  that is textbook grab him well they've  got power they've got Heights and when  the corn is that accurate only one end  result let's see the replay now  in front here at Manchester United  [Applause]  the value of mattock  the challenge he made the block  even rocket hitch  [Applause]  shut up great stop  [Applause]  oh they look promising there in that  wide area the defenders done well  [Applause]  even rocket hitch Papa Murphy's chosen  to add on two extra minutes  retain for the kpop  help ease the pressure  [Applause]  so it's one nil here as the half-time  whistle goes it's at the start of the  game you've suggested a scenario a  halftime like the one we've got they'd  be delighted wouldn't they I think so I  mean the way they pass the ball about  you and with the team trailing you can  understand why he's going to make it  [Applause]  saw that parts coming in midfield made  the intervention and now maybe he can  push the team forward with his work on  the ball quick head up found a teammate  [Applause]  luis suarez  [Applause]  well they're in a good position here the  magnetic  Romelu Lukaku excellent way to lose  market  [Applause]  and he's put it in to the gold  top-quality no doubt about it that's all  about anticipation and just snuffing up  the rebound different angle on it here  restarting at tuna  [Applause]  stay on its feet  very good tackle  Leonel messy  at that bench Barcelona what to make a  change now  the man you have Matich Romelu Lukaku  they've got it away from the danger  keeps it going  just on target yeah unlucky because it  got some power beyond the ball just not  the direction activity on the bench for  the losing team a substitute getting  ready to come on TT  nice return pass luis suarez  must like to get the throw  [Applause]  mata  played down the wing keeping the wide  attack going lost his man  take the chance with the shot they're  here thought you might have done better  that had a bit of time in space good  position  even rocket ish  Romelu Lukaku the money at matok that's  a good challenge  that Torah  [Applause]  now he's looking for support  let's crust it well he's got it away and  that's what you have to do  add that Torah moving the opposition  around with their play these two players  ha  well they're back defending and they've  cut the pass out there and maybe that  will ease the pressure samuel MTT  Jordi Alba  looking a little messy good place to win  the ball back there because the pressure  was starting to mount and the  interception was timely to say the least  Jordi Alba  can't keep the ball at the moment  he's got a crust to make that  interception he saw it coming  Antonio Valencia even racket each  here's the shot and the goalkeeper got a  touch to that pine saved  [Applause]  Jordi Alba  said you're a better Barcelona I've got  a chance here let's go  [Applause]  there's new hope they cut it back to  what I thought this game was done and  dusted but anything but now or it's a  great finish to take the keeper at the  equation I mean the keeper no chance  there bottom corner that's United's  free-kick  [Applause]  it's noticeable that the home supporters  trying to help their team in this  situation airing what could be  might have just had a big influence on  the game but they've dealt with it and  they can breathe again  [Applause]  Romelu Lukaku we shut off useful block  in those circumstances and it's going to  be his tro here well that's another  there's another angle coming up here  Alan  wonderful contact on the ball there  shots on here will  see the wince on his face maybe the  muscles gone and they've got their new  man ready Barcelona to make the change  in midfield they've got it backfire an  interception  Romelu Lukaku matter  good width in the attack here looking  for a cross at the end of it  okay well well well we've given a  penalty it's a yellow card Alan I think  that's fair enough  from the ref it was it was a clear foul  and it's a clear penalty coming into the  match is ba ba ma Sharada maskatron Oh  Claire's here  the referee calls a halt  it's finished ready now to go into  competitive action again you would feel  having won this friendly  yeah they look just about ready to me  they look fit and they have settled into  a system that they look comfortable with  [Applause]  [Music]  [Music]
+ 
+
+00:00:07.700 --> 00:00:15.450 align:start position:0%
+II a sports to the game  [Applause]  [Applause]  [Applause]  that's death death death death death  death death  [Applause]  you  hi there I'm Martin Tyler with me today  as always Alan Smith Thank You Martin  looking forward to this one should be a  good game today's game manchester united  against barcelona  still very much the benchmark Barcelona  rather for the style of football and  little tweaks here and there but very  much it a standard that these players  have to rise to yes I think that's fair  tiki-taka he's known the short style  passing game amended it to a certain  extent I think you've got to do that  against certain sides manchester United  have designed Old Trafford these days  very much for the supporter particularly  those who have certainly come occasion  particularly for those who come in the  week when there aren't matches they have  a wonderful tourist trail around it and  on the pitch it must be an amazing place  to play you can say that again they do  call it the theater of dreams for a  reason so much has been won on this  pitch by the home team and the away one  dma santoso is the ref  [Applause]  Manchester United getting the first half  underway  [Applause]  and the cross is in  those straps when they attack has to  feed on from the goalkeeper that time  hang on to the ball well  Iniesta here's a chance to move forward  from midfield after that interception  even rocket hitch  they might open them up now  we feel good about that a really strong  clean tackle  good position that's what a well read by  the goalkeeper they do hate being  chipped keepers don't they they do it  too and he did anticipate it and  collected it comfortably in the end the  man you automatic  the short-term water fine save and at a  corner for Manchester United  [Applause]  Challenge for the cross  that should be felt it is  oh what a mess oh the pressure has got  to him big time  [Applause]  piqué  nearly Suarez  [Applause]  that's a good challenge  wonderful say  to really reach out for that  [Applause]  that will end the threat at least for  the moment he's moved in trying to just  on the opponent of his stride  mas good support as they build this  attack  they're grateful for that to have an  intervention like that and get back on  the ball when they're defending so much  and now NES do  papa  that's very good positional play and  he's read the situation perfectly with  that interception cutoff say  driving goalkeeper and that will be a  corner for United  free kick hat  [Applause]  it's what you do when you get the ball  that really counts and they're trying to  make the most of that turnover in play  and now any ESCA  he's looking for the cross  [Applause]  that's a corner barcelona's cool  [Applause]  and he lost it in the earlier challenge  and now he's pitched the ball back Todd  back  but now they've won the ball back in the  middle of the park by intercepting that  pass  on the attack here  look  defender has dispossessed it  Barcelona have yet to really make an  impact on the game or no shots at all so  far for Barcelona you have to wonder are  we going to see a shot here before the  game is out the fans are absolutely  furious  that blocked it well for a for  Manchester United  that's the way to win the ball back and  now any Esther pogba matter  United Corner  [Applause]  that is textbook grab him well they've  got power they've got Heights and when  the corn is that accurate only one end  result let's see the replay now  in front here at Manchester United  [Applause]  the value of mattock  the challenge he made the block  even rocket hitch  [Applause]  shut up great stop  [Applause]  oh they look promising there in that  wide area the defenders done well  [Applause]  even rocket hitch Papa Murphy's chosen  to add on two extra minutes  retain for the kpop  help ease the pressure  [Applause]  so it's one nil here as the half-time  whistle goes it's at the start of the  game you've suggested a scenario a  halftime like the one we've got they'd  be delighted wouldn't they I think so I  mean the way they pass the ball about  you and with the team trailing you can  understand why he's going to make it  [Applause]  saw that parts coming in midfield made  the intervention and now maybe he can  push the team forward with his work on  the ball quick head up found a teammate  [Applause]  luis suarez  [Applause]  well they're in a good position here the  magnetic  Romelu Lukaku excellent way to lose  market  [Applause]  and he's put it in to the gold  top-quality no doubt about it that's all  about anticipation and just snuffing up  the rebound different angle on it here  restarting at tuna  [Applause]  stay on its feet  very good tackle  Leonel messy  at that bench Barcelona what to make a  change now  the man you have Matich Romelu Lukaku  they've got it away from the danger  keeps it going  just on target yeah unlucky because it  got some power beyond the ball just not  the direction activity on the bench for  the losing team a substitute getting  ready to come on TT  nice return pass luis suarez  must like to get the throw  [Applause]  mata  played down the wing keeping the wide  attack going lost his man  take the chance with the shot they're  here thought you might have done better  that had a bit of time in space good  position  even rocket ish  Romelu Lukaku the money at matok that's  a good challenge  that Torah  [Applause]  now he's looking for support  let's crust it well he's got it away and  that's what you have to do  add that Torah moving the opposition  around with their play these two players  ha  well they're back defending and they've  cut the pass out there and maybe that  will ease the pressure samuel MTT  Jordi Alba  looking a little messy good place to win  the ball back there because the pressure  was starting to mount and the  interception was timely to say the least  Jordi Alba  can't keep the ball at the moment  he's got a crust to make that  interception he saw it coming  Antonio Valencia even racket each  here's the shot and the goalkeeper got a  touch to that pine saved  [Applause]  Jordi Alba  said you're a better Barcelona I've got  a chance here let's go  [Applause]  there's new hope they cut it back to  what I thought this game was done and  dusted but anything but now or it's a  great finish to take the keeper at the  equation I mean the keeper no chance  there bottom corner that's United's  free-kick  [Applause]  it's noticeable that the home supporters  trying to help their team in this  situation airing what could be  might have just had a big influence on  the game but they've dealt with it and  they can breathe again  [Applause]  Romelu Lukaku we shut off useful block  in those circumstances and it's going to  be his tro here well that's another  there's another angle coming up here  Alan  wonderful contact on the ball there  shots on here will  see the wince on his face maybe the  muscles gone and they've got their new  man ready Barcelona to make the change  in midfield they've got it backfire an  interception  Romelu Lukaku matter  good width in the attack here looking  for a cross at the end of it  okay well well well we've given a  penalty it's a yellow card Alan I think  that's fair enough  from the ref it was it was a clear foul  and it's a clear penalty coming into the  match is ba ba ma Sharada maskatron Oh  Claire's here  the referee calls a halt  it's finished ready now to go into  competitive action again you would feel  having won this friendly  yeah they look just about ready to me  they look fit and they have settled into  a system that they look comfortable with  [Applause]  [Music]  [Music]
+
+
+00:00:15.450 --> 00:00:15.460 align:start position:0%
+ 
+ 
+
+00:00:15.460 --> 00:00:22.440 align:start position:0%
+ 
+
+
+00:00:22.440 --> 00:00:22.450 align:start position:0%
+ 
+ 
+
+00:00:22.450 --> 00:00:32.150 align:start position:0%
+ 
+
+
+00:00:32.150 --> 00:00:34.590 align:start position:0%
+ 
+ 
+
+00:00:34.590 --> 00:00:38.710 align:start position:0%
+ 
+ 
+
+00:00:38.710 --> 00:00:38.720 align:start position:0%
+ 
+ 
+
+00:00:38.720 --> 00:00:53.760 align:start position:0%
+ 
+
+
+00:00:53.760 --> 00:00:53.770 align:start position:0%
+ 
+ 
+
+00:00:53.770 --> 00:01:55.490 align:start position:0%
+ 
+
+
+00:01:55.490 --> 00:01:58.050 align:start position:0%
+ 
+ 
+
+00:01:58.050 --> 00:01:59.969 align:start position:0%
+ 
+ 
+
+00:01:59.969 --> 00:02:01.380 align:start position:0%
+ 
+ 
+
+00:02:01.380 --> 00:02:05.789 align:start position:0%
+ 
+ 
+
+00:02:05.789 --> 00:02:09.479 align:start position:0%
+ 
+ 
+
+00:02:09.479 --> 00:02:11.849 align:start position:0%
+ 
+ 
+
+00:02:11.849 --> 00:02:13.530 align:start position:0%
+ 
+ 
+
+00:02:13.530 --> 00:02:15.959 align:start position:0%
+ 
+ 
+
+00:02:15.959 --> 00:02:18.030 align:start position:0%
+ 
+ 
+
+00:02:18.030 --> 00:02:20.819 align:start position:0%
+ 
+ 
+
+00:02:20.819 --> 00:02:23.940 align:start position:0%
+ 
+ 
+
+00:02:23.940 --> 00:02:27.000 align:start position:0%
+ 
+ 
+
+00:02:27.000 --> 00:02:28.740 align:start position:0%
+ 
+ 
+
+00:02:28.740 --> 00:02:32.309 align:start position:0%
+ 
+ 
+
+00:02:32.309 --> 00:02:34.229 align:start position:0%
+ 
+ 
+
+00:02:34.229 --> 00:02:37.080 align:start position:0%
+ 
+ 
+
+00:02:37.080 --> 00:02:39.089 align:start position:0%
+ 
+ 
+
+00:02:39.089 --> 00:02:40.470 align:start position:0%
+ 
+ 
+
+00:02:40.470 --> 00:02:43.080 align:start position:0%
+ 
+ 
+
+00:02:43.080 --> 00:02:45.539 align:start position:0%
+ 
+ 
+
+00:02:45.539 --> 00:02:48.179 align:start position:0%
+ 
+ 
+
+00:02:48.179 --> 00:02:50.220 align:start position:0%
+ 
+ 
+
+00:02:50.220 --> 00:02:52.349 align:start position:0%
+ 
+ 
+
+00:02:52.349 --> 00:02:55.110 align:start position:0%
+ 
+ 
+
+00:02:55.110 --> 00:02:58.250 align:start position:0%
+ 
+ 
+
+00:02:58.250 --> 00:03:04.450 align:start position:0%
+ 
+ 
+
+00:03:04.450 --> 00:03:04.460 align:start position:0%
+ 
+ 
+
+00:03:04.460 --> 00:03:10.580 align:start position:0%
+ 
+
+
+00:03:10.580 --> 00:03:13.790 align:start position:0%
+ 
+ 
+
+00:03:13.790 --> 00:03:13.800 align:start position:0%
+ 
+ 
+
+00:03:13.800 --> 00:03:14.720 align:start position:0%
+ 
+
+
+00:03:14.720 --> 00:03:14.730 align:start position:0%
+ 
+ 
+
+00:03:14.730 --> 00:03:23.589 align:start position:0%
+ 
+
+
+00:03:23.589 --> 00:03:27.420 align:start position:0%
+ 
+ 
+
+00:03:27.420 --> 00:03:28.949 align:start position:0%
+ 
+ 
+
+00:03:28.949 --> 00:03:30.449 align:start position:0%
+ 
+ 
+
+00:03:30.449 --> 00:03:36.270 align:start position:0%
+ 
+ 
+
+00:03:36.270 --> 00:03:38.970 align:start position:0%
+ 
+ 
+
+00:03:38.970 --> 00:03:48.790 align:start position:0%
+ 
+ 
+
+00:03:48.790 --> 00:03:54.620 align:start position:0%
+ 
+ 
+
+00:03:54.620 --> 00:03:58.320 align:start position:0%
+ 
+ 
+
+00:03:58.320 --> 00:04:00.930 align:start position:0%
+ 
+ 
+
+00:04:00.930 --> 00:04:05.580 align:start position:0%
+ 
+ 
+
+00:04:05.580 --> 00:04:09.400 align:start position:0%
+ 
+ 
+
+00:04:09.400 --> 00:04:11.380 align:start position:0%
+ 
+ 
+
+00:04:11.380 --> 00:04:13.600 align:start position:0%
+ 
+ 
+
+00:04:13.600 --> 00:04:16.030 align:start position:0%
+ 
+ 
+
+00:04:16.030 --> 00:04:20.289 align:start position:0%
+ 
+ 
+
+00:04:20.289 --> 00:04:25.400 align:start position:0%
+ 
+ 
+
+00:04:25.400 --> 00:04:29.900 align:start position:0%
+ 
+ 
+
+00:04:29.900 --> 00:04:31.370 align:start position:0%
+ 
+ 
+
+00:04:31.370 --> 00:04:31.380 align:start position:0%
+ 
+ 
+
+00:04:31.380 --> 00:04:59.920 align:start position:0%
+ 
+
+
+00:04:59.920 --> 00:05:05.240 align:start position:0%
+ 
+ 
+
+00:05:05.240 --> 00:05:19.080 align:start position:0%
+ 
+ 
+
+00:05:19.080 --> 00:05:21.960 align:start position:0%
+ 
+ 
+
+00:05:21.960 --> 00:05:22.940 align:start position:0%
+ 
+ 
+
+00:05:22.940 --> 00:05:22.950 align:start position:0%
+ 
+ 
+
+00:05:22.950 --> 00:05:28.179 align:start position:0%
+ 
+
+
+00:05:28.179 --> 00:05:28.189 align:start position:0%
+ 
+ 
+
+00:05:28.189 --> 00:05:34.170 align:start position:0%
+ 
+
+
+00:05:34.170 --> 00:05:36.610 align:start position:0%
+ 
+ 
+
+00:05:36.610 --> 00:05:36.620 align:start position:0%
+ 
+ 
+
+00:05:36.620 --> 00:05:40.200 align:start position:0%
+ 
+
+
+00:05:40.200 --> 00:05:47.660 align:start position:0%
+ 
+ 
+
+00:05:47.660 --> 00:05:49.430 align:start position:0%
+ 
+ 
+
+00:05:49.430 --> 00:05:50.770 align:start position:0%
+ 
+ 
+
+00:05:50.770 --> 00:05:50.780 align:start position:0%
+ 
+ 
+
+00:05:50.780 --> 00:06:03.810 align:start position:0%
+ 
+
+
+00:06:03.810 --> 00:06:06.240 align:start position:0%
+ 
+ 
+
+00:06:06.240 --> 00:06:09.000 align:start position:0%
+ 
+ 
+
+00:06:09.000 --> 00:06:13.250 align:start position:0%
+ 
+ 
+
+00:06:13.250 --> 00:06:15.800 align:start position:0%
+ 
+ 
+
+00:06:15.800 --> 00:06:15.810 align:start position:0%
+ 
+ 
+
+00:06:15.810 --> 00:06:21.170 align:start position:0%
+ 
+
+
+00:06:21.170 --> 00:06:24.170 align:start position:0%
+ 
+ 
+
+00:06:24.170 --> 00:06:26.300 align:start position:0%
+ 
+ 
+
+00:06:26.300 --> 00:06:27.820 align:start position:0%
+ 
+ 
+
+00:06:27.820 --> 00:06:32.549 align:start position:0%
+ 
+ 
+
+00:06:32.549 --> 00:06:32.559 align:start position:0%
+ 
+ 
+
+00:06:32.559 --> 00:06:39.680 align:start position:0%
+ 
+
+
+00:06:39.680 --> 00:06:41.420 align:start position:0%
+ 
+ 
+
+00:06:41.420 --> 00:06:44.390 align:start position:0%
+ 
+ 
+
+00:06:44.390 --> 00:06:49.110 align:start position:0%
+ 
+ 
+
+00:06:49.110 --> 00:06:52.409 align:start position:0%
+ 
+ 
+
+00:06:52.409 --> 00:06:59.420 align:start position:0%
+ 
+ 
+
+00:06:59.420 --> 00:07:07.500 align:start position:0%
+ 
+ 
+
+00:07:07.500 --> 00:07:07.510 align:start position:0%
+ 
+ 
+
+00:07:07.510 --> 00:07:20.410 align:start position:0%
+ 
+
+
+00:07:20.410 --> 00:07:21.940 align:start position:0%
+ 
+ 
+
+00:07:21.940 --> 00:07:24.340 align:start position:0%
+ 
+ 
+
+00:07:24.340 --> 00:07:27.300 align:start position:0%
+ 
+ 
+
+00:07:27.300 --> 00:07:32.270 align:start position:0%
+ 
+ 
+
+00:07:32.270 --> 00:07:33.460 align:start position:0%
+ 
+ 
+
+00:07:33.460 --> 00:07:33.470 align:start position:0%
+ 
+ 
+
+00:07:33.470 --> 00:07:35.530 align:start position:0%
+ 
+
+
+00:07:35.530 --> 00:07:37.610 align:start position:0%
+ 
+ 
+
+00:07:37.610 --> 00:07:37.620 align:start position:0%
+ 
+ 
+
+00:07:37.620 --> 00:07:49.350 align:start position:0%
+ 
+
+
+00:07:49.350 --> 00:07:51.510 align:start position:0%
+ 
+ 
+
+00:07:51.510 --> 00:07:54.600 align:start position:0%
+ 
+ 
+
+00:07:54.600 --> 00:07:54.610 align:start position:0%
+ 
+ 
+
+00:07:54.610 --> 00:07:59.210 align:start position:0%
+ 
+
+
+00:07:59.210 --> 00:08:01.490 align:start position:0%
+ 
+ 
+
+00:08:01.490 --> 00:08:03.290 align:start position:0%
+ 
+ 
+
+00:08:03.290 --> 00:08:03.300 align:start position:0%
+ 
+ 
+
+00:08:03.300 --> 00:08:09.330 align:start position:0%
+ 
+
+
+00:08:09.330 --> 00:08:13.280 align:start position:0%
+ 
+ 
+
+00:08:13.280 --> 00:08:13.290 align:start position:0%
+ 
+ 
+
+00:08:13.290 --> 00:08:15.090 align:start position:0%
+ 
+
+
+00:08:15.090 --> 00:08:21.640 align:start position:0%
+ 
+ 
+
+00:08:21.640 --> 00:08:24.040 align:start position:0%
+ 
+ 
+
+00:08:24.040 --> 00:08:27.490 align:start position:0%
+ 
+ 
+
+00:08:27.490 --> 00:08:30.520 align:start position:0%
+ 
+ 
+
+00:08:30.520 --> 00:08:32.560 align:start position:0%
+ 
+ 
+
+00:08:32.560 --> 00:08:34.870 align:start position:0%
+ 
+ 
+
+00:08:34.870 --> 00:08:34.880 align:start position:0%
+ 
+ 
+
+00:08:34.880 --> 00:08:42.220 align:start position:0%
+ 
+
+
+00:08:42.220 --> 00:08:44.800 align:start position:0%
+ 
+ 
+
+00:08:44.800 --> 00:08:55.840 align:start position:0%
+ 
+ 
+
+00:08:55.840 --> 00:08:58.350 align:start position:0%
+ 
+ 
+
+00:08:58.350 --> 00:09:10.380 align:start position:0%
+ 
+ 
+
+00:09:10.380 --> 00:09:11.760 align:start position:0%
+ 
+ 
+
+00:09:11.760 --> 00:09:11.770 align:start position:0%
+ 
+ 
+
+00:09:11.770 --> 00:09:28.840 align:start position:0%
+ 
+
+
+00:09:28.840 --> 00:09:31.749 align:start position:0%
+ 
+ 
+
+00:09:31.749 --> 00:09:33.340 align:start position:0%
+ 
+ 
+
+00:09:33.340 --> 00:09:35.769 align:start position:0%
+ 
+ 
+
+00:09:35.769 --> 00:09:45.330 align:start position:0%
+ 
+ 
+
+00:09:45.330 --> 00:09:48.570 align:start position:0%
+ 
+ 
+
+00:09:48.570 --> 00:09:48.580 align:start position:0%
+ 
+ 
+
+00:09:48.580 --> 00:09:55.379 align:start position:0%
+ 
+
+
+00:09:55.379 --> 00:10:07.040 align:start position:0%
+ 
+ 
+
+00:10:07.040 --> 00:10:22.700 align:start position:0%
+ 
+ 
+
+00:10:22.700 --> 00:10:24.450 align:start position:0%
+ 
+ 
+
+00:10:24.450 --> 00:10:24.460 align:start position:0%
+ 
+ 
+
+00:10:24.460 --> 00:10:27.860 align:start position:0%
+ 
+
+
+00:10:27.860 --> 00:10:30.460 align:start position:0%
+ 
+ 
+
+00:10:30.460 --> 00:10:30.470 align:start position:0%
+ 
+ 
+
+00:10:30.470 --> 00:10:45.960 align:start position:0%
+ 
+
+
+00:10:45.960 --> 00:10:47.549 align:start position:0%
+ 
+ 
+
+00:10:47.549 --> 00:10:51.340 align:start position:0%
+ 
+ 
+
+00:10:51.340 --> 00:10:51.350 align:start position:0%
+ 
+ 
+
+00:10:51.350 --> 00:10:54.220 align:start position:0%
+ 
+
+
+00:10:54.220 --> 00:10:58.510 align:start position:0%
+ 
+ 
+
+00:10:58.510 --> 00:11:04.430 align:start position:0%
+ 
+ 
+
+00:11:04.430 --> 00:11:17.900 align:start position:0%
+ 
+ 
+
+00:11:17.900 --> 00:11:19.030 align:start position:0%
+ 
+ 
+
+00:11:19.030 --> 00:11:19.040 align:start position:0%
+ 
+ 
+
+00:11:19.040 --> 00:11:26.980 align:start position:0%
+ 
+
+
+00:11:26.980 --> 00:11:28.750 align:start position:0%
+ 
+ 
+
+00:11:28.750 --> 00:11:30.820 align:start position:0%
+ 
+ 
+
+00:11:30.820 --> 00:11:32.440 align:start position:0%
+ 
+ 
+
+00:11:32.440 --> 00:11:34.360 align:start position:0%
+ 
+ 
+
+00:11:34.360 --> 00:11:35.830 align:start position:0%
+ 
+ 
+
+00:11:35.830 --> 00:11:37.690 align:start position:0%
+ 
+ 
+
+00:11:37.690 --> 00:11:49.630 align:start position:0%
+ 
+ 
+
+00:11:49.630 --> 00:11:52.820 align:start position:0%
+ 
+ 
+
+00:11:52.820 --> 00:11:52.830 align:start position:0%
+ 
+ 
+
+00:11:52.830 --> 00:12:03.889 align:start position:0%
+ 
+
+
+00:12:03.889 --> 00:12:06.990 align:start position:0%
+ 
+ 
+
+00:12:06.990 --> 00:12:09.780 align:start position:0%
+ 
+ 
+
+00:12:09.780 --> 00:12:12.030 align:start position:0%
+ 
+ 
+
+00:12:12.030 --> 00:12:19.790 align:start position:0%
+ 
+ 
+
+00:12:19.790 --> 00:12:19.800 align:start position:0%
+ 
+ 
+
+00:12:19.800 --> 00:12:24.940 align:start position:0%
+ 
+
+
+00:12:24.940 --> 00:12:26.790 align:start position:0%
+ 
+ 
+
+00:12:26.790 --> 00:12:26.800 align:start position:0%
+ 
+ 
+
+00:12:26.800 --> 00:12:44.910 align:start position:0%
+ 
+
+
+00:12:44.910 --> 00:12:47.120 align:start position:0%
+ 
+ 
+
+00:12:47.120 --> 00:12:47.130 align:start position:0%
+ 
+ 
+
+00:12:47.130 --> 00:12:49.819 align:start position:0%
+ 
+
+
+00:12:49.819 --> 00:12:55.790 align:start position:0%
+ 
+ 
+
+00:12:55.790 --> 00:12:55.800 align:start position:0%
+ 
+ 
+
+00:12:55.800 --> 00:12:59.230 align:start position:0%
+ 
+
+
+00:12:59.230 --> 00:12:59.240 align:start position:0%
+ 
+ 
+
+00:12:59.240 --> 00:13:01.160 align:start position:0%
+ 
+
+
+00:13:01.160 --> 00:13:10.670 align:start position:0%
+ 
+ 
+
+00:13:10.670 --> 00:13:12.679 align:start position:0%
+ 
+ 
+
+00:13:12.679 --> 00:13:14.689 align:start position:0%
+ 
+ 
+
+00:13:14.689 --> 00:13:19.319 align:start position:0%
+ 
+ 
+
+00:13:19.319 --> 00:13:21.010 align:start position:0%
+ 
+ 
+
+00:13:21.010 --> 00:13:21.020 align:start position:0%
+ 
+ 
+
+00:13:21.020 --> 00:13:27.620 align:start position:0%
+ 
+
+
+00:13:27.620 --> 00:13:36.430 align:start position:0%
+ 
+ 
+
+00:13:36.430 --> 00:13:47.960 align:start position:0%
+ 
+ 
+
+00:13:47.960 --> 00:13:51.170 align:start position:0%
+ 
+ 
+
+00:13:51.170 --> 00:13:53.480 align:start position:0%
+ 
+ 
+
+00:13:53.480 --> 00:14:01.320 align:start position:0%
+ 
+ 
+
+00:14:01.320 --> 00:14:12.020 align:start position:0%
+ 
+ 
+
+00:14:12.020 --> 00:14:16.840 align:start position:0%
+ 
+ 
+
+00:14:16.840 --> 00:14:20.980 align:start position:0%
+ 
+ 
+
+00:14:20.980 --> 00:14:23.860 align:start position:0%
+ 
+ 
+
+00:14:23.860 --> 00:14:25.420 align:start position:0%
+ 
+ 
+
+00:14:25.420 --> 00:14:28.930 align:start position:0%
+ 
+ 
+
+00:14:28.930 --> 00:14:31.180 align:start position:0%
+ 
+ 
+
+00:14:31.180 --> 00:14:36.040 align:start position:0%
+ 
+ 
+
+00:14:36.040 --> 00:14:43.380 align:start position:0%
+ 
+ 
+
+00:14:43.380 --> 00:14:44.730 align:start position:0%
+ 
+ 
+
+00:14:44.730 --> 00:14:44.740 align:start position:0%
+ 
+ 
+
+00:14:44.740 --> 00:14:53.200 align:start position:0%
+ 
+
+
+00:14:53.200 --> 00:14:53.210 align:start position:0%
+ 
+ 
+
+00:14:53.210 --> 00:15:01.220 align:start position:0%
+ 
+
+
+00:15:01.220 --> 00:15:04.020 align:start position:0%
+ 
+ 
+
+00:15:04.020 --> 00:15:08.950 align:start position:0%
+ 
+ 
+
+00:15:08.950 --> 00:15:11.120 align:start position:0%
+ 
+ 
+
+00:15:11.120 --> 00:15:12.320 align:start position:0%
+ 
+ 
+
+00:15:12.320 --> 00:15:13.970 align:start position:0%
+ 
+ 
+
+00:15:13.970 --> 00:15:13.980 align:start position:0%
+ 
+ 
+
+00:15:13.980 --> 00:15:23.530 align:start position:0%
+ 
+
+
+00:15:23.530 --> 00:15:27.210 align:start position:0%
+ 
+ 
+
+00:15:27.210 --> 00:15:32.670 align:start position:0%
+ 
+ 
+
+00:15:32.670 --> 00:15:34.350 align:start position:0%
+ 
+ 
+
+00:15:34.350 --> 00:15:37.620 align:start position:0%
+ 
+ 
+
+00:15:37.620 --> 00:15:37.630 align:start position:0%
+ 
+ 
+
+00:15:37.630 --> 00:15:40.190 align:start position:0%
+ 
+
+
+00:15:40.190 --> 00:15:45.109 align:start position:0%
+ 
+ 
+
+00:15:45.109 --> 00:15:48.079 align:start position:0%
+ 
+ 
+
+00:15:48.079 --> 00:15:52.150 align:start position:0%
+ 
+ 
+
+00:15:52.150 --> 00:15:55.000 align:start position:0%
+ 
+ 
+
+00:15:55.000 --> 00:16:07.900 align:start position:0%
+ 
+ 
+
+00:16:07.900 --> 00:16:07.910 align:start position:0%
+ 
+ 
+
+00:16:07.910 --> 00:16:13.230 align:start position:0%
+ 
+
+
+00:16:13.230 --> 00:16:15.340 align:start position:0%
+ 
+ 
+
+00:16:15.340 --> 00:16:18.069 align:start position:0%
+ 
+ 
+
+00:16:18.069 --> 00:16:24.950 align:start position:0%
+ 
+ 
+
+00:16:24.950 --> 00:16:32.260 align:start position:0%
+ 
+ 
+
+00:16:32.260 --> 00:16:35.889 align:start position:0%
+ 
+ 
+
+00:16:35.889 --> 00:16:38.110 align:start position:0%
+ 
+ 
+
+00:16:38.110 --> 00:16:39.970 align:start position:0%
+ 
+ 
+
+00:16:39.970 --> 00:16:42.660 align:start position:0%
+ 
+ 
+
+00:16:42.660 --> 00:16:53.070 align:start position:0%
+ 
+ 
+
+00:16:53.070 --> 00:16:58.060 align:start position:0%
+ 
+ 
+
+00:16:58.060 --> 00:16:59.650 align:start position:0%
+ 
+ 
+
+00:16:59.650 --> 00:17:02.400 align:start position:0%
+ 
+ 
+
+00:17:02.400 --> 00:17:10.320 align:start position:0%
+ 
+ 
+
+00:17:10.320 --> 00:17:12.630 align:start position:0%
+ 
+ 
+
+00:17:12.630 --> 00:17:14.859 align:start position:0%
+ 
+ 
+
+00:17:14.859 --> 00:17:14.869 align:start position:0%
+ 
+ 
+
+00:17:14.869 --> 00:17:21.619 align:start position:0%
+ 
+
+
+00:17:21.619 --> 00:17:25.390 align:start position:0%
+ 
+ 
+
+00:17:25.390 --> 00:17:29.470 align:start position:0%
+ 
+ 
+
+00:17:29.470 --> 00:17:30.920 align:start position:0%
+ 
+ 
+
+00:17:30.920 --> 00:17:30.930 align:start position:0%
+ 
+ 
+
+00:17:30.930 --> 00:17:36.540 align:start position:0%
+ 
+
+
+00:17:36.540 --> 00:17:38.520 align:start position:0%
+ 
+ 
+
+00:17:38.520 --> 00:17:40.440 align:start position:0%
+ 
+ 
+
+00:17:40.440 --> 00:17:43.530 align:start position:0%
+ 
+ 
+
+00:17:43.530 --> 00:17:45.690 align:start position:0%
+ 
+ 
+
+00:17:45.690 --> 00:17:47.580 align:start position:0%
+ 
+ 
+
+00:17:47.580 --> 00:17:50.430 align:start position:0%
+ 
+ 
+
+00:17:50.430 --> 00:17:50.440 align:start position:0%
+ 
+ 
+
+00:17:50.440 --> 00:17:50.920 align:start position:0%
+ 
+
+
+00:17:50.920 --> 00:17:50.930 align:start position:0%
+ 
+ 
+
+00:17:50.930 --> 00:18:00.480 align:start position:0%
+ 
+
+
+00:18:00.480 --> 00:18:03.080 align:start position:0%
+ 
+ 
+
+00:18:03.080 --> 00:18:06.029 align:start position:0%
+ 
+ 
+
+00:18:06.029 --> 00:18:09.149 align:start position:0%
+ 
+ 
+
+00:18:09.149 --> 00:18:11.879 align:start position:0%
+ 
+ 
+
+00:18:11.879 --> 00:18:14.219 align:start position:0%
+ 
+ 
+
+00:18:14.219 --> 00:18:15.450 align:start position:0%
+ 
+ 
+
+00:18:15.450 --> 00:18:15.460 align:start position:0%
+ 
+ 
+
+00:18:15.460 --> 00:18:16.999 align:start position:0%
+ 
+
+
+00:18:16.999 --> 00:18:21.330 align:start position:0%
+ 
+ 
+
+00:18:21.330 --> 00:18:27.060 align:start position:0%
+ 
+ 
+
+00:18:27.060 --> 00:18:31.320 align:start position:0%
+ 
+ 
+
+00:18:31.320 --> 00:18:32.669 align:start position:0%
+ 
+ 
+
+00:18:32.669 --> 00:18:32.679 align:start position:0%
+ 
+ 
+
+00:18:32.679 --> 00:18:33.200 align:start position:0%
+ 
+
+
+00:18:33.200 --> 00:18:36.930 align:start position:0%
+ 
+ 
+
+00:18:36.930 --> 00:18:39.510 align:start position:0%
+ 
+ 
+
+00:18:39.510 --> 00:18:42.360 align:start position:0%
+ 
+ 
+
+00:18:42.360 --> 00:18:45.030 align:start position:0%
+ 
+ 
+
+00:18:45.030 --> 00:18:50.690 align:start position:0%
+ 
+ 
+
+00:18:50.690 --> 00:18:52.519 align:start position:0%
+ 
+ 
+
+00:18:52.519 --> 00:18:52.529 align:start position:0%
+ 
+ 
+
+00:18:52.529 --> 00:18:56.820 align:start position:0%
+ 
+
+
+00:18:56.820 --> 00:19:02.850 align:start position:0%
+ 
+ 
+
+00:19:02.850 --> 00:19:04.769 align:start position:0%
+ 
+ 
+
+00:19:04.769 --> 00:19:06.899 align:start position:0%
+ 
+ 
+
+00:19:06.899 --> 00:19:14.310 align:start position:0%
+ 
+ 
+
+00:19:14.310 --> 00:19:16.409 align:start position:0%
+ 
+ 
+
+00:19:16.409 --> 00:19:17.460 align:start position:0%
+ 
+ 
+
+00:19:17.460 --> 00:19:19.739 align:start position:0%
+ 
+ 
+
+00:19:19.739 --> 00:19:23.519 align:start position:0%
+ 
+ 
+
+00:19:23.519 --> 00:19:33.359 align:start position:0%
+ 
+ 
+
+00:19:33.359 --> 00:19:40.480 align:start position:0%
+ 
+ 
+
+00:19:40.480 --> 00:19:44.320 align:start position:0%
+ 
+ 
+
+00:19:44.320 --> 00:19:47.500 align:start position:0%
+ 
+ 
+
+00:19:47.500 --> 00:19:49.299 align:start position:0%
+ 
+ 
+
+00:19:49.299 --> 00:19:51.159 align:start position:0%
+ 
+ 
+
+00:19:51.159 --> 00:19:52.810 align:start position:0%
+ 
+ 
+
+00:19:52.810 --> 00:19:54.789 align:start position:0%
+ 
+ 
+
+00:19:54.789 --> 00:19:59.000 align:start position:0%
+ 
+ 
+
+00:19:59.000 --> 00:19:59.010 align:start position:0%
+ 
+ 
+
+00:19:59.010 --> 00:20:13.860 align:start position:0%
+ 
+
+
+00:20:13.860 --> 00:20:13.870 align:start position:0%
+ 
+ 
+
+00:20:13.870 --> 00:20:24.720 align:start position:0%
+ 
+
+
+00:20:24.720 --> 00:20:24.730 align:start position:0%
+ 
+ 
+
+00:20:24.730 --> 00:20:27.960 align:start position:0%
+ 
+
+
