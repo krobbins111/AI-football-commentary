@@ -1,7 +1,7 @@
 import os
 import numpy as np
 import threading
-from elevenlabs import generate, save, set_api_key, clone
+from elevenlabs import generate, save, set_api_key, clone, play
 from gfootball.env import football_env
 from gfootball.env import config
 import pyaudio
@@ -29,6 +29,15 @@ flags.DEFINE_bool('real_time', True,
 all_commentary = []
 api_response = ''
 
+def speak_prompt(prompt):
+    audio = generate(
+    text=prompt,
+    voice="Bella",
+    model="eleven_multilingual_v2"
+    )
+    play(audio)
+    print(prompt)
+
 def get_chat_completion(prompt):
     client = OpenAI(api_key='')
     print('start inner thread')
@@ -44,6 +53,7 @@ def get_chat_completion(prompt):
     print('end')
     global api_response
     api_response = completion.choices[0].message.content
+    speak_prompt[api_response]
 
 def threaded_inference(prompt, interrupt_current_commentary, steps_time): # RIGHT PLACE WRONG ORDER
     print(prompt, ' at ', steps_time)
@@ -179,7 +189,7 @@ def record_and_save(duration=31):
 
 
 def main(_):
-    set_api_key('')
+    set_api_key('3c58166e885f382ea1cbdcfcfee112dd')
     cfg = config.Config({
         'env_name': FLAGS.env_name,
         'action_set': FLAGS.action_set,
